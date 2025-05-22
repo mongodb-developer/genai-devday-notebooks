@@ -1,0 +1,8 @@
+{
+    "mdb.presetConnections": [
+        {
+            "name": "Local MongoDB Database",
+            "connectionString": "mongodb://admin:mongodb@localhost:27017"
+        }
+    ]
+}
