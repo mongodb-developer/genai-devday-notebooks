@@ -1,6 +1,6 @@
 services:
   lab-runner:
-    image: mcr.microsoft.com/devcontainers/universal:2
+    image: mcr.microsoft.com/devcontainers/base:ubuntu
     volumes:
       - ../..:/workspaces:cached
     depends_on:

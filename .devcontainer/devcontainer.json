@@ -1,5 +1,9 @@
 {
     "name": "Jupyter Notebook with MongoDB",
+    "features": {
+        "ghcr.io/devcontainers/features/python:1": {},
+        "ghcr.io/devcontainers/features/common-utils:2": {}
+    },
     "dockerComposeFile": "docker-compose.yml",
     "service": "lab-runner",
     "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
