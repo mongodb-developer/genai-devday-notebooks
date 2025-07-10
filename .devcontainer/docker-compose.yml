@@ -1,6 +1,6 @@
 services:
   lab-runner:
-    image: jupyter/scipy-notebook:latest
+    image: jupyter/base-notebook:latest
     volumes:
       - ../..:/workspaces:cached
     depends_on:
