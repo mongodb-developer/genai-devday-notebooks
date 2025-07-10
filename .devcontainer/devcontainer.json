@@ -1,5 +1,5 @@
 {
-    "name": "Jupyter Notebook with MongoDB",
+    "name": "GenAI Jupyter Notebooks with MongoDB",
     "dockerComposeFile": "docker-compose.yml",
     "service": "lab-runner",
     "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
@@ -14,8 +14,7 @@
         "SERVERLESS_URL": "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/",
         "MONGODB_URI": "mongodb://admin:mongodb@mongodb:27017/"
     },
-    "updateContentCommand": "python3 -m pip install -r requirements.txt",
-    "postCreateCommand": "",
+    "postCreateCommand": "pip install -r requirements.txt",
     "customizations": {
         "codespaces": {
             "openFiles": []
