@@ -1,11 +1,4 @@
 {
-  "workbench.startupEditor": "none",
-  "security.workspace.trust.enabled": false,
-  "git.openRepositoryInParentFolders": "never",
-  "window.menuBarVisibility": "classic",
-	"editor.wordWrap": "on",
-  "pylint.enabled": true,
-  "pylint.args": ["--indent-string='  '"],
   "mdb.presetConnections": [
       {
           "name": "Local MongoDB Atlas",
