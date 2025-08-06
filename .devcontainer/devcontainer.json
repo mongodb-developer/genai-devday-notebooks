@@ -12,7 +12,7 @@
     },
     "containerEnv": {
         "SERVERLESS_URL": "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/",
-        "MONGODB_URI": "mongodb://localhost:27017/?directConnection=true"
+        "MONGODB_URI": "mongodb://admin:mongodb@mongodb:27017/"
     },
     "postCreateCommand": "pip install -r requirements.txt",
     "customizations": {
@@ -23,7 +23,6 @@
             "extensions": [
                 "ms-python.python",
                 "ms-toolsai.jupyter",
-                "ms-tools.vscode-jupyter",
                 "mongodb.mongodb-vscode"
             ]
         }

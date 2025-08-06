@@ -2,7 +2,7 @@
   "mdb.presetConnections": [
       {
           "name": "Local MongoDB Atlas",
-          "connectionString": "mongodb://localhost:27017"
+          "connectionString": "mongodb://admin:mongodb@localhost:27017"
       }
   ],
   "mdb.showOverviewPageAfterInstall": false
