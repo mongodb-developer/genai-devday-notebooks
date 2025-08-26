@@ -96,6 +96,6 @@ def set_env(name: str, passkey: str) -> None:
     response = requests.post(url=SERVERLESS_URL, json={"task": "get_token", "data": passkey})
     if response.status_code == 200:
         os.environ[name] = response.json().get("token")
-        print(f"Setting {name} environment variable successful.")
+        print(f"{name} environment variable set successfully.")
     else:
-        print("Token expired. Follow steps in the lab documentation to obtain your own API key and set it as an environment variable."
+        print("Passkey expired. Follow steps in the lab documentation to obtain your own credentials and set them as environment variables.")
