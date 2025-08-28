@@ -105,9 +105,10 @@ def set_env(providers: List[str], passkey: str) -> None:
             result = response.json().get("token")
             for key in result:
                 os.environ[key] = result[key]
-                print(f"Set {key} environment variable.")
+                print(f"Successfully set {key} environment variable.")
         elif status_code == 401:
-            print(f"{response.json()['error']}. Follow steps in the lab documentation to obtain your own credentials and set them as environment variables.")
+            print(f"{response.json()['error']} Follow steps in the lab documentation to obtain your own credentials and set them as environment variables.")
+            break
         else:
             print(f"{response.json()['error']}")
 
