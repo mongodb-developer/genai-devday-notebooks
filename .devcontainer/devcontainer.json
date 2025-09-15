@@ -11,7 +11,7 @@
         "cpus": 4
     },
     "containerEnv": {
-        "SERVERLESS_URL": "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/",
+        "PROXY_ENDPOINT": "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/",
         "MONGODB_URI": "mongodb://admin:mongodb@mongodb:27017/"
     },
     "postCreateCommand": "pip install -r requirements.txt",
