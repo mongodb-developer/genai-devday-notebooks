@@ -107,10 +107,10 @@ def set_env(providers: List[str], passkey: str) -> None:
                 os.environ[key] = result[key]
                 print(f"Successfully set {key} environment variable.")
         elif status_code == 401:
-            print(f"{response.json()['error']} Follow steps in the lab documentation to obtain your own credentials and set them as environment variables.")
+            raise Exception(f"{response.json()['error']} Follow steps in the lab documentation to obtain your own credentials and set them as environment variables.")
             break
         else:
-            print(f"{response.json()['error']}")
+            raise Exception(f"{response.json()['error']}")
 
 
 def get_llm(provider: str):
@@ -133,4 +133,4 @@ def get_llm(provider: str):
             temperature=0,
         )
     else:
-        print("Unsupported provider. provider can be one of 'aws', 'google', 'microsoft'.")
+        raise Exception("Unsupported provider. provider can be one of 'aws', 'google', 'microsoft'.")
