@@ -108,7 +108,6 @@ def set_env(providers: List[str], passkey: str) -> None:
                 print(f"Successfully set {key} environment variable.")
         elif status_code == 401:
             raise Exception(f"{response.json()['error']} Follow steps in the lab documentation to obtain your own credentials and set them as environment variables.")
-            break
         else:
             raise Exception(f"{response.json()['error']}")
 
