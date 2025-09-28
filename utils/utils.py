@@ -1,13 +1,16 @@
 from pymongo.errors import OperationFailure
 from pymongo.collection import Collection
+from langchain_aws import ChatBedrock
+from langchain_openai import AzureChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 import requests
-from typing import Dict
+from typing import Dict, List
 import time
 import os
 
 SLEEP_TIMER = 5
-SERVERLESS_URL = os.getenv("SERVERLESS_URL")
-CODESPACE_NAME = os.getenv("CODESPACE_NAME")
+PROXY_ENDPOINT = "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/"
+SANDBOX_NAME = os.getenv("CODESPACE_NAME") or os.getenv("_SANDBOX_ID")
 
 
 def create_index(collection: Collection, index_name: str, model: Dict) -> None:
@@ -82,5 +85,51 @@ def track_progress(task: str, workshop_id: str) -> None:
         workshop (str): Workshop name
     """
     print(f"Tracking progress for task {task}")
-    payload = {"task": task, "workshop_id": workshop_id, "sandbox_id": CODESPACE_NAME}
-    requests.post(url=SERVERLESS_URL, json={"task": "track_progress", "data": payload})
+    payload = {"task": task, "workshop_id": workshop_id, "sandbox_id": SANDBOX_NAME}
+    requests.post(url=PROXY_ENDPOINT, json={"task": "track_progress", "data": payload})
+
+
+def set_env(providers: List[str], passkey: str) -> None:
+    """
+    Set environment variables in sandbox
+
+    Args:
+        providers (List[str]): List of provider names
+        passkey (str): Passkey to get token
+    """
+    for provider in providers:
+        payload = {"provider": provider, "passkey": passkey}
+        response = requests.post(url=PROXY_ENDPOINT, json={"task": "get_token", "data": payload})
+        status_code = response.status_code
+        if status_code == 200:
+            result = response.json().get("token")
+            for key in result:
+                os.environ[key] = result[key]
+                print(f"Successfully set {key} environment variable.")
+        elif status_code == 401:
+            raise Exception(f"{response.json()['error']} Follow steps in the lab documentation to obtain your own credentials and set them as environment variables.")
+        else:
+            raise Exception(f"{response.json()['error']}")
+
+
+def get_llm(provider: str):
+    if provider == "aws":
+        return ChatBedrock(
+            model_id="anthropic.claude-3-5-sonnet-20240620-v1:0",
+            model_kwargs=dict(temperature=0),
+            region_name="us-west-2",
+        )
+    elif provider == "google":
+        return ChatGoogleGenerativeAI(
+            model="gemini-1.5-pro",
+            temperature=0,
+        )
+    elif provider == "microsoft":
+        return AzureChatOpenAI(
+            azure_endpoint="https://gai-326.openai.azure.com/",
+            azure_deployment="gpt-4o",
+            api_version="2023-06-01-preview",
+            temperature=0,
+        )
+    else:
+        raise Exception("Unsupported provider. provider can be one of 'aws', 'google', 'microsoft'.")
