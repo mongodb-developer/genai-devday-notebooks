@@ -121,7 +121,7 @@ def get_llm(provider: str):
         )
     elif provider == "google":
         return ChatGoogleGenerativeAI(
-            model="gemini-1.5-pro",
+            model="gemini-2.5-pro",
             temperature=0,
         )
     elif provider == "microsoft":
