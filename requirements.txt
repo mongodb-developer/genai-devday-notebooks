@@ -1,6 +1,5 @@
-pymongo==4.11.3
-langchain==1.0.2
-langchain-aws==1.0.0
+langchain==0.3.27
+langchain-aws==0.2.35
 langchain-google-genai==2.1.4
 langchain-openai==0.3.16
 langgraph==0.4.2
