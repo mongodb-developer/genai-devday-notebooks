@@ -115,7 +115,7 @@ def set_env(providers: List[str], passkey: str) -> None:
 def get_llm(provider: str):
     if provider == "aws":
         return ChatBedrock(
-            model_id="anthropic.claude-3-5-sonnet-20240620-v1:0",
+            model_id="us.anthropic.claude-sonnet-4-5-20250929-v1:0",
             model_kwargs=dict(temperature=0),
             region_name="us-west-2",
         )
