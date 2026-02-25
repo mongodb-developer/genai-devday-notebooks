@@ -127,8 +127,8 @@ def get_llm(provider: str):
     elif provider == "microsoft":
         return AzureChatOpenAI(
             azure_endpoint="https://gai-326.openai.azure.com/",
-            azure_deployment="gpt-4o",
-            api_version="2023-06-01-preview",
+            azure_deployment="gpt-4.1",
+            api_version="2024-12-01-preview",
             temperature=0,
         )
     else:
