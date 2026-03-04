@@ -10,7 +10,6 @@ import os
 
 SLEEP_TIMER = 5
 PROXY_ENDPOINT = "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/"
-SANDBOX_NAME = os.getenv("CODESPACE_NAME") or os.getenv("_SANDBOX_ID")
 
 
 def create_index(collection: Collection, index_name: str, model: Dict) -> None:
@@ -74,19 +73,6 @@ def check_index_ready(collection: Collection, index_name: str) -> None:
 
         print(f"{index_name} index status: {status}")
         time.sleep(SLEEP_TIMER)
-
-
-def track_progress(task: str, workshop_id: str) -> None:
-    """
-    Track progress of a task
-
-    Args:
-        task (str): Task name
-        workshop (str): Workshop name
-    """
-    print(f"Tracking progress for task {task}")
-    payload = {"task": task, "workshop_id": workshop_id, "sandbox_id": SANDBOX_NAME}
-    requests.post(url=PROXY_ENDPOINT, json={"task": "track_progress", "data": payload})
 
 
 def set_env(providers: List[str], passkey: str) -> None:
