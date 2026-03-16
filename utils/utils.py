@@ -18,7 +18,7 @@ def create_search_index(collection: Collection, index_name: str, model: Dict) ->
     Args:
         collection (Collection): Collection to create search index against
         index_name (str): Index name
-        model (Dict): Index definition with 'name', 'type', and 'definition' keys
+        model (Dict): Index definition
     """
     # Check if index already exists
     indexes = list(collection.list_search_indexes(name=index_name))
