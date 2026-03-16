@@ -1,4 +1,3 @@
-from pymongo.errors import OperationFailure
 from pymongo.collection import Collection
 from langchain_aws import ChatBedrock
 from langchain_openai import AzureChatOpenAI
@@ -12,67 +11,80 @@ SLEEP_TIMER = 5
 PROXY_ENDPOINT = "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/"
 
 
-def create_index(collection: Collection, index_name: str, model: Dict) -> None:
+def create_search_index(collection: Collection, index_name: str, model: Dict) -> None:
     """
-    Create a search index
+    Create a search index, dropping and recreating if it already exists.
 
     Args:
         collection (Collection): Collection to create search index against
         index_name (str): Index name
         model (Dict): Index definition
     """
-    try:
-        print(f"Creating the {index_name} index")
-        collection.create_search_index(model=model)
-    except OperationFailure:
-        print(f"{index_name} index already exists, recreating...")
-        try:
-            print(f"Dropping {index_name} index")
-            collection.drop_search_index(name=index_name)
+    # Check if index already exists
+    indexes = list(collection.list_search_indexes(name=index_name))
 
-            # Poll for index deletion to complete
-            while True:
-                indexes = list(collection.list_search_indexes())
-                index_exists = any(idx.get("name") == index_name for idx in indexes)
-                if not index_exists:
-                    print(f"{index_name} index deletion complete")
-                    break
-                print(f"Waiting for {index_name} index deletion to complete...")
-                time.sleep(SLEEP_TIMER)
+    if len(indexes) > 0:
+        print(f"{index_name} index exists, dropping...")
+        collection.drop_search_index(name=index_name)
 
-            print(f"Creating new {index_name} index")
-            collection.create_search_index(model=model)
-            print(f"Successfully recreated the {index_name} index")
-        except Exception as e:
-            raise Exception(f"Error during index recreation: {str(e)}")
+        # Wait for deletion to complete
+        while True:
+            indexes = list(collection.list_search_indexes(name=index_name))
+            if len(indexes) == 0:
+                print(f"{index_name} index dropped")
+                break
+            print(f"Waiting for {index_name} index to be dropped...")
+            time.sleep(SLEEP_TIMER)
+
+    print(f"Creating {index_name} index...")
+    collection.create_search_index(model=model)
+    print(f"Successfully created {index_name} index")
 
 
 def check_index_ready(collection: Collection, index_name: str) -> None:
     """
-    Poll for index status until it's ready
+    Poll for search index status until it's ready
 
     Args:
         collection (Collection): Collection to check index status against
         index_name (str): Name of the index to check
     """
     while True:
-        indexes = list(collection.list_search_indexes())
-        matching_indexes = [idx for idx in indexes if idx.get("name") == index_name]
+        indexes = list(collection.list_search_indexes(name=index_name))
 
-        if not matching_indexes:
-            print(f"{index_name} index not found")
+        if not indexes:
+            print(f"{index_name} index not found, waiting...")
             time.sleep(SLEEP_TIMER)
             continue
 
-        index = matching_indexes[0]
-        status = index["status"]
+        status = indexes[0].get("status", "UNKNOWN")
         if status == "READY":
-            print(f"{index_name} index status: READY")
-            print(f"{index_name} index definition: {index['latestDefinition']}")
-            break
+            print(f"{index_name} index is READY")
+            return
 
         print(f"{index_name} index status: {status}")
         time.sleep(SLEEP_TIMER)
+
+
+def create_index(collection: Collection, keys: List, index_name: str, **kwargs) -> None:
+    """
+    Create a regular index, dropping and recreating if it already exists.
+
+    Args:
+        collection (Collection): Collection to create index against
+        keys (List): List of keys for the index
+        index_name (str): Index name
+        **kwargs: Additional arguments for index creation (e.g., unique, expireAfterSeconds)
+    """
+    # Check if index already exists
+    if index_name in collection.index_information():
+        print(f"{index_name} index exists, dropping...")
+        collection.drop_index(index_name)
+        print(f"{index_name} index dropped")
+
+    print(f"Creating {index_name} index...")
+    collection.create_index(keys, name=index_name, **kwargs)
+    print(f"Successfully created {index_name} index")
 
 
 def set_env(providers: List[str], passkey: str) -> None:
@@ -101,7 +113,7 @@ def set_env(providers: List[str], passkey: str) -> None:
 def get_llm(provider: str):
     if provider == "aws":
         return ChatBedrock(
-            model_id="us.anthropic.claude-sonnet-4-5-20250929-v1:0",
+            model_id="global.anthropic.claude-sonnet-4-5-20250929-v1:0",
             model_kwargs=dict(temperature=0),
             region_name="us-west-2",
         )
