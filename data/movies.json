@@ -1,11 +1,16 @@
 [
   {
     "plot": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
-    "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
     "runtime": 166,
     "rated": "PG-13",
     "cast": [
-      "Timothée Chalamet",
+      "Timoth\u00e9e Chalamet",
       "Zendaya",
       "Rebecca Ferguson",
       "Javier Bardem",
@@ -16,9 +21,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctYjA0NS00MzFlLWJiYmYtYzY1NzEyN2M4MGY2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "Dune: Part Two",
     "fullplot": "Following the events of the first film, Paul Atreides joins the Fremen and becomes Muad'Dib while embracing his destiny on the desert planet Arrakis. As he learns to harness the power of the spice and the sandworms, he must choose between love and the fate of the universe, confronting the forces that conspired against House Atreides.",
-    "languages": ["English"],
-    "released": { "$date": "2024-03-01T00:00:00.000Z" },
-    "directors": ["Denis Villeneuve"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2024-03-01T00:00:00.000Z"
+    },
+    "directors": [
+      "Denis Villeneuve"
+    ],
     "writers": [
       "Denis Villeneuve (screenplay)",
       "Jon Spaihts (screenplay)",
@@ -31,14 +42,33 @@
     },
     "lastupdated": "2025-03-10 14:22:18.451000000",
     "year": 2024,
-    "imdb": { "rating": 8.5, "votes": 412000, "id": 15239678 },
-    "countries": ["USA", "Canada"],
+    "imdb": {
+      "rating": 8.5,
+      "votes": 412000,
+      "id": 15239678
+    },
+    "countries": [
+      "USA",
+      "Canada"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 4.5, "numReviews": 25000, "meter": 95 },
-      "dvd": { "$date": "2024-06-25T00:00:00.000Z" },
-      "critic": { "rating": 8.4, "numReviews": 380, "meter": 92 },
-      "lastUpdated": { "$date": "2025-01-15T10:30:00.000Z" },
+      "viewer": {
+        "rating": 4.5,
+        "numReviews": 25000,
+        "meter": 95
+      },
+      "dvd": {
+        "$date": "2024-06-25T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.4,
+        "numReviews": 380,
+        "meter": 92
+      },
+      "lastUpdated": {
+        "$date": "2025-01-15T10:30:00.000Z"
+      },
       "rotten": 30,
       "production": "Legendary Pictures",
       "fresh": 350
@@ -46,7 +76,12 @@
   },
   {
     "plot": "Deadpool is recruited by the Time Variance Authority to join a team tasked with saving his universe, teaming up with a reluctant Wolverine.",
-    "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
     "runtime": 128,
     "rated": "R",
     "cast": [
@@ -60,9 +95,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "Deadpool & Wolverine",
     "fullplot": "Wade Wilson's peaceful existence comes crashing down when the Time Variance Authority recruits him for a mission that will change the history of the Marvel Cinematic Universe. Reluctantly teaming up with a Wolverine from another timeline, Deadpool must save his world from oblivion.",
-    "languages": ["English"],
-    "released": { "$date": "2024-07-26T00:00:00.000Z" },
-    "directors": ["Shawn Levy"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2024-07-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Shawn Levy"
+    ],
     "writers": [
       "Ryan Reynolds (screenplay)",
       "Zeb Wells (screenplay)",
@@ -75,14 +116,32 @@
     },
     "lastupdated": "2025-02-14 09:15:42.883000000",
     "year": 2024,
-    "imdb": { "rating": 7.7, "votes": 298000, "id": 6263850 },
-    "countries": ["USA"],
+    "imdb": {
+      "rating": 7.7,
+      "votes": 298000,
+      "id": 6263850
+    },
+    "countries": [
+      "USA"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 4.3, "numReviews": 50000, "meter": 96 },
-      "dvd": { "$date": "2024-10-22T00:00:00.000Z" },
-      "critic": { "rating": 7.2, "numReviews": 420, "meter": 78 },
-      "lastUpdated": { "$date": "2025-02-01T08:00:00.000Z" },
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 50000,
+        "meter": 96
+      },
+      "dvd": {
+        "$date": "2024-10-22T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.2,
+        "numReviews": 420,
+        "meter": 78
+      },
+      "lastUpdated": {
+        "$date": "2025-02-01T08:00:00.000Z"
+      },
       "rotten": 92,
       "production": "Marvel Studios",
       "fresh": 328
@@ -90,7 +149,13 @@
   },
   {
     "plot": "Riley's mind headquarters undergoes a sudden demolition to make room for new emotions, as she enters her teenage years.",
-    "genres": ["Animation", "Adventure", "Comedy", "Drama", "Family"],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
     "runtime": 96,
     "rated": "PG",
     "cast": [
@@ -104,9 +169,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "Inside Out 2",
     "fullplot": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions. Joy, Sadness, Anger, Fear and Disgust have long been running a successful operation, but when Anxiety shows up, they aren't sure how to feel.",
-    "languages": ["English"],
-    "released": { "$date": "2024-06-14T00:00:00.000Z" },
-    "directors": ["Kelsey Mann"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2024-06-14T00:00:00.000Z"
+    },
+    "directors": [
+      "Kelsey Mann"
+    ],
     "writers": [
       "Meg LeFauve (screenplay)",
       "Dave Holstein (screenplay)",
@@ -119,14 +190,32 @@
     },
     "lastupdated": "2025-01-20 11:45:33.221000000",
     "year": 2024,
-    "imdb": { "rating": 7.6, "votes": 185000, "id": 22022452 },
-    "countries": ["USA"],
+    "imdb": {
+      "rating": 7.6,
+      "votes": 185000,
+      "id": 22022452
+    },
+    "countries": [
+      "USA"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 4.4, "numReviews": 35000, "meter": 91 },
-      "dvd": { "$date": "2024-09-10T00:00:00.000Z" },
-      "critic": { "rating": 7.8, "numReviews": 310, "meter": 91 },
-      "lastUpdated": { "$date": "2025-01-10T12:00:00.000Z" },
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 35000,
+        "meter": 91
+      },
+      "dvd": {
+        "$date": "2024-09-10T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.8,
+        "numReviews": 310,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "2025-01-10T12:00:00.000Z"
+      },
       "rotten": 28,
       "production": "Pixar Animation Studios",
       "fresh": 282
@@ -134,7 +223,12 @@
   },
   {
     "plot": "Elphaba, a misunderstood young woman with green skin, and Glinda, a popular girl, become friends at Shiz University in the Land of Oz.",
-    "genres": ["Drama", "Fantasy", "Musical", "Romance"],
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ],
     "runtime": 160,
     "rated": "PG",
     "cast": [
@@ -148,9 +242,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "Wicked",
     "fullplot": "Elphaba, a young woman ridiculed for her green skin, and Glinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths.",
-    "languages": ["English"],
-    "released": { "$date": "2024-11-27T00:00:00.000Z" },
-    "directors": ["Jon M. Chu"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2024-11-27T00:00:00.000Z"
+    },
+    "directors": [
+      "Jon M. Chu"
+    ],
     "writers": [
       "Winnie Holzman (screenplay)",
       "Stephen Schwartz (musical)",
@@ -163,14 +263,32 @@
     },
     "lastupdated": "2025-03-05 16:08:55.774000000",
     "year": 2024,
-    "imdb": { "rating": 7.4, "votes": 142000, "id": 1262426 },
-    "countries": ["USA"],
+    "imdb": {
+      "rating": 7.4,
+      "votes": 142000,
+      "id": 1262426
+    },
+    "countries": [
+      "USA"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 4.2, "numReviews": 28000, "meter": 88 },
-      "dvd": { "$date": "2025-03-18T00:00:00.000Z" },
-      "critic": { "rating": 7.0, "numReviews": 350, "meter": 88 },
-      "lastUpdated": { "$date": "2025-03-01T09:30:00.000Z" },
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 28000,
+        "meter": 88
+      },
+      "dvd": {
+        "$date": "2025-03-18T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.0,
+        "numReviews": 350,
+        "meter": 88
+      },
+      "lastUpdated": {
+        "$date": "2025-03-01T09:30:00.000Z"
+      },
       "rotten": 42,
       "production": "Universal Pictures",
       "fresh": 308
@@ -178,7 +296,11 @@
   },
   {
     "plot": "Years after the death of Emperor Marcus Aurelius, Lucius is forced to enter the Colosseum after his home is conquered by tyrannical emperors.",
-    "genres": ["Action", "Adventure", "Drama"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
     "runtime": 148,
     "rated": "R",
     "cast": [
@@ -192,9 +314,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "Gladiator II",
     "fullplot": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-    "languages": ["English"],
-    "released": { "$date": "2024-11-22T00:00:00.000Z" },
-    "directors": ["Ridley Scott"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2024-11-22T00:00:00.000Z"
+    },
+    "directors": [
+      "Ridley Scott"
+    ],
     "writers": [
       "David Scarpa (screenplay)",
       "Peter Craig (story)",
@@ -207,14 +335,33 @@
     },
     "lastupdated": "2025-02-28 10:12:07.339000000",
     "year": 2024,
-    "imdb": { "rating": 6.5, "votes": 98000, "id": 9218128 },
-    "countries": ["USA", "UK"],
+    "imdb": {
+      "rating": 6.5,
+      "votes": 98000,
+      "id": 9218128
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 3.8, "numReviews": 15000, "meter": 70 },
-      "dvd": { "$date": "2025-03-04T00:00:00.000Z" },
-      "critic": { "rating": 6.2, "numReviews": 280, "meter": 70 },
-      "lastUpdated": { "$date": "2025-02-20T14:00:00.000Z" },
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 15000,
+        "meter": 70
+      },
+      "dvd": {
+        "$date": "2025-03-04T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 6.2,
+        "numReviews": 280,
+        "meter": 70
+      },
+      "lastUpdated": {
+        "$date": "2025-02-20T14:00:00.000Z"
+      },
       "rotten": 84,
       "production": "Paramount Pictures",
       "fresh": 196
@@ -222,7 +369,11 @@
   },
   {
     "plot": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
-    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
     "runtime": 119,
     "rated": "R",
     "cast": [
@@ -236,11 +387,17 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "Alien: Romulus",
     "fullplot": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe. Set between the events of Alien and Aliens, the film follows Rain and her companions as they fight to survive against the Xenomorph threat.",
-    "languages": ["English"],
-    "released": { "$date": "2024-08-16T00:00:00.000Z" },
-    "directors": ["Fede Álvarez"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2024-08-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Fede \u00c1lvarez"
+    ],
     "writers": [
-      "Fede Álvarez (screenplay)",
+      "Fede \u00c1lvarez (screenplay)",
       "Rodo Sayagues (screenplay)",
       "Dan O'Bannon (characters)"
     ],
@@ -251,14 +408,33 @@
     },
     "lastupdated": "2025-01-08 08:33:19.662000000",
     "year": 2024,
-    "imdb": { "rating": 7.2, "votes": 112000, "id": 18412256 },
-    "countries": ["USA", "UK"],
+    "imdb": {
+      "rating": 7.2,
+      "votes": 112000,
+      "id": 18412256
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 4.0, "numReviews": 12000, "meter": 80 },
-      "dvd": { "$date": "2024-12-03T00:00:00.000Z" },
-      "critic": { "rating": 7.4, "numReviews": 290, "meter": 80 },
-      "lastUpdated": { "$date": "2025-01-05T11:00:00.000Z" },
+      "viewer": {
+        "rating": 4.0,
+        "numReviews": 12000,
+        "meter": 80
+      },
+      "dvd": {
+        "$date": "2024-12-03T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.4,
+        "numReviews": 290,
+        "meter": 80
+      },
+      "lastUpdated": {
+        "$date": "2025-01-05T11:00:00.000Z"
+      },
       "rotten": 58,
       "production": "20th Century Studios",
       "fresh": 232
@@ -266,11 +442,15 @@
   },
   {
     "plot": "A young Bob Dylan arrives in New York City in 1961 and transforms folk music forever.",
-    "genres": ["Biography", "Drama", "Music"],
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
     "runtime": 141,
     "rated": "R",
     "cast": [
-      "Timothée Chalamet",
+      "Timoth\u00e9e Chalamet",
       "Monica Barbaro",
       "Edward Norton",
       "Elle Fanning",
@@ -280,9 +460,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "A Complete Unknown",
     "fullplot": "In 1961, a 19-year-old Bob Dylan arrives in New York City with his guitar and forges relationships with musical icons on his meteoric rise, culminating in a groundbreaking performance that reverberates around the world.",
-    "languages": ["English"],
-    "released": { "$date": "2024-12-25T00:00:00.000Z" },
-    "directors": ["James Mangold"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2024-12-25T00:00:00.000Z"
+    },
+    "directors": [
+      "James Mangold"
+    ],
     "writers": [
       "James Mangold (screenplay)",
       "Jay Cocks (screenplay)",
@@ -291,18 +477,36 @@
     "awards": {
       "wins": 2,
       "nominations": 8,
-      "text": "Timothée Chalamet won Best Actor at the Golden Globes. 8 Oscar nominations."
+      "text": "Timoth\u00e9e Chalamet won Best Actor at the Golden Globes. 8 Oscar nominations."
     },
     "lastupdated": "2025-03-12 13:27:44.118000000",
     "year": 2024,
-    "imdb": { "rating": 7.3, "votes": 67000, "id": 1151334 },
-    "countries": ["USA"],
+    "imdb": {
+      "rating": 7.3,
+      "votes": 67000,
+      "id": 1151334
+    },
+    "countries": [
+      "USA"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 4.1, "numReviews": 8000, "meter": 82 },
-      "dvd": { "$date": "2025-02-25T00:00:00.000Z" },
-      "critic": { "rating": 7.6, "numReviews": 260, "meter": 82 },
-      "lastUpdated": { "$date": "2025-03-10T10:00:00.000Z" },
+      "viewer": {
+        "rating": 4.1,
+        "numReviews": 8000,
+        "meter": 82
+      },
+      "dvd": {
+        "$date": "2025-02-25T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.6,
+        "numReviews": 260,
+        "meter": 82
+      },
+      "lastUpdated": {
+        "$date": "2025-03-10T10:00:00.000Z"
+      },
       "rotten": 47,
       "production": "Searchlight Pictures",
       "fresh": 213
@@ -310,7 +514,11 @@
   },
   {
     "plot": "Twin brothers return to their hometown hoping for a fresh start, only to discover an even greater evil waiting for them.",
-    "genres": ["Drama", "Horror", "Thriller"],
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
     "runtime": 137,
     "rated": "R",
     "cast": [
@@ -324,9 +532,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "Sinners",
     "fullplot": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back. Set in 1932 Mississippi, the film blends Southern Gothic horror with a story of redemption and survival.",
-    "languages": ["English"],
-    "released": { "$date": "2025-04-18T00:00:00.000Z" },
-    "directors": ["Ryan Coogler"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2025-04-18T00:00:00.000Z"
+    },
+    "directors": [
+      "Ryan Coogler"
+    ],
     "writers": [
       "Ryan Coogler (screenplay)"
     ],
@@ -337,14 +551,32 @@
     },
     "lastupdated": "2025-06-01 09:44:21.556000000",
     "year": 2025,
-    "imdb": { "rating": 8.1, "votes": 89000, "id": 31193180 },
-    "countries": ["USA"],
+    "imdb": {
+      "rating": 8.1,
+      "votes": 89000,
+      "id": 31193180
+    },
+    "countries": [
+      "USA"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 4.6, "numReviews": 18000, "meter": 97 },
-      "dvd": { "$date": "2025-07-01T00:00:00.000Z" },
-      "critic": { "rating": 8.6, "numReviews": 340, "meter": 97 },
-      "lastUpdated": { "$date": "2025-06-15T12:00:00.000Z" },
+      "viewer": {
+        "rating": 4.6,
+        "numReviews": 18000,
+        "meter": 97
+      },
+      "dvd": {
+        "$date": "2025-07-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.6,
+        "numReviews": 340,
+        "meter": 97
+      },
+      "lastUpdated": {
+        "$date": "2025-06-15T12:00:00.000Z"
+      },
       "rotten": 10,
       "production": "Warner Bros. Pictures",
       "fresh": 330
@@ -352,7 +584,12 @@
   },
   {
     "plot": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent.",
-    "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
     "runtime": 129,
     "rated": "PG-13",
     "cast": [
@@ -366,9 +603,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "Superman",
     "fullplot": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the American way, he soon finds himself in a world that views these ideals as old-fashioned.",
-    "languages": ["English"],
-    "released": { "$date": "2025-07-11T00:00:00.000Z" },
-    "directors": ["James Gunn"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2025-07-11T00:00:00.000Z"
+    },
+    "directors": [
+      "James Gunn"
+    ],
     "writers": [
       "James Gunn (screenplay)",
       "Jerry Siegel (characters)",
@@ -381,14 +624,32 @@
     },
     "lastupdated": "2025-07-05 18:20:11.902000000",
     "year": 2025,
-    "imdb": { "rating": 7.5, "votes": 45000, "id": 5950044 },
-    "countries": ["USA"],
+    "imdb": {
+      "rating": 7.5,
+      "votes": 45000,
+      "id": 5950044
+    },
+    "countries": [
+      "USA"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 4.2, "numReviews": 22000, "meter": 85 },
-      "dvd": { "$date": "2025-10-14T00:00:00.000Z" },
-      "critic": { "rating": 7.3, "numReviews": 310, "meter": 85 },
-      "lastUpdated": { "$date": "2025-07-04T16:00:00.000Z" },
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 22000,
+        "meter": 85
+      },
+      "dvd": {
+        "$date": "2025-10-14T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.3,
+        "numReviews": 310,
+        "meter": 85
+      },
+      "lastUpdated": {
+        "$date": "2025-07-04T16:00:00.000Z"
+      },
       "rotten": 46,
       "production": "DC Studios",
       "fresh": 264
@@ -396,7 +657,11 @@
   },
   {
     "plot": "Ethan Hunt and his team race against time to track down a terrifying new weapon that threatens all of humanity.",
-    "genres": ["Action", "Adventure", "Thriller"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
     "runtime": 163,
     "rated": "PG-13",
     "cast": [
@@ -410,9 +675,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
     "title": "Mission: Impossible - The Final Reckoning",
     "fullplot": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: to track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the fate of the world at stake, a deadly race around the globe begins.",
-    "languages": ["English"],
-    "released": { "$date": "2025-05-23T00:00:00.000Z" },
-    "directors": ["Christopher McQuarrie"],
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2025-05-23T00:00:00.000Z"
+    },
+    "directors": [
+      "Christopher McQuarrie"
+    ],
     "writers": [
       "Christopher McQuarrie (screenplay)",
       "Bruce Geller (television series)"
@@ -424,17 +695,2898 @@
     },
     "lastupdated": "2025-06-20 07:55:38.447000000",
     "year": 2025,
-    "imdb": { "rating": 7.4, "votes": 76000, "id": 9603212 },
-    "countries": ["USA"],
+    "imdb": {
+      "rating": 7.4,
+      "votes": 76000,
+      "id": 9603212
+    },
+    "countries": [
+      "USA"
+    ],
     "type": "movie",
     "tomatoes": {
-      "viewer": { "rating": 4.3, "numReviews": 19000, "meter": 89 },
-      "dvd": { "$date": "2025-08-26T00:00:00.000Z" },
-      "critic": { "rating": 7.5, "numReviews": 320, "meter": 89 },
-      "lastUpdated": { "$date": "2025-06-18T14:00:00.000Z" },
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 19000,
+        "meter": 89
+      },
+      "dvd": {
+        "$date": "2025-08-26T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.5,
+        "numReviews": 320,
+        "meter": 89
+      },
+      "lastUpdated": {
+        "$date": "2025-06-18T14:00:00.000Z"
+      },
       "rotten": 35,
       "production": "Paramount Pictures",
       "fresh": 285
+    }
+  },
+  {
+    "plot": "After the Rebels are brutally overpowered by the Empire, Luke Skywalker begins Jedi training with Yoda.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "runtime": 124,
+    "rated": "PG",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Frank Oz"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Empire Strikes Back",
+    "fullplot": "The Imperial Forces, under orders from Darth Vader, hold Princess Leia hostage in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker and Han Solo must rescue her while Luke trains as a Jedi Knight under the tutelage of the wise Yoda.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1980-05-21T00:00:00.000Z"
+    },
+    "directors": [
+      "Irvin Kershner"
+    ],
+    "writers": [
+      "Leigh Brackett (screenplay)",
+      "Lawrence Kasdan (screenplay)",
+      "George Lucas (story)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 4,
+      "text": "Won 1 Oscar. 4 nominations."
+    },
+    "lastupdated": "1981-06-15 12:00:00.000000000",
+    "year": 1980,
+    "imdb": {
+      "rating": 8.7,
+      "votes": 1300000,
+      "id": 80654
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.5,
+        "numReviews": 500000,
+        "meter": 97
+      },
+      "dvd": {
+        "$date": "1980-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.0,
+        "numReviews": 100,
+        "meter": 94
+      },
+      "lastUpdated": {
+        "$date": "1982-01-01T10:00:00.000Z"
+      },
+      "rotten": 3,
+      "production": "Lucasfilm Ltd.",
+      "fresh": 97
+    }
+  },
+  {
+    "plot": "Archaeologist Indiana Jones races Nazis to find the Ark of the Covenant.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "runtime": 115,
+    "rated": "PG",
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman",
+      "Ronald Lacey",
+      "John Rhys-Davies"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Raiders of the Lost Ark",
+    "fullplot": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1981-06-12T00:00:00.000Z"
+    },
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Lawrence Kasdan (screenplay)",
+      "George Lucas (story)",
+      "Philip Kaufman (story)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 9,
+      "text": "Won 5 Oscars. 9 nominations."
+    },
+    "lastupdated": "1982-06-15 12:00:00.000000000",
+    "year": 1981,
+    "imdb": {
+      "rating": 8.4,
+      "votes": 980000,
+      "id": 82951
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.5,
+        "numReviews": 400000,
+        "meter": 96
+      },
+      "dvd": {
+        "$date": "1982-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.2,
+        "numReviews": 80,
+        "meter": 96
+      },
+      "lastUpdated": {
+        "$date": "1983-01-01T10:00:00.000Z"
+      },
+      "rotten": 3,
+      "production": "Lucasfilm Ltd.",
+      "fresh": 77
+    }
+  },
+  {
+    "plot": "A troubled child summons the courage to help a friendly alien escape Earth.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family",
+      "Sci-Fi"
+    ],
+    "runtime": 115,
+    "rated": "PG",
+    "cast": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Peter Coyote",
+      "Dee Wallace",
+      "Robert MacNaughton"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "E.T. the Extra-Terrestrial",
+    "fullplot": "A meek and alienated little boy finds a stranded extraterrestrial. He has to find the courage to defy the authorities to help the alien return to its home planet.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1982-06-11T00:00:00.000Z"
+    },
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Melissa Mathison (screenplay)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 12,
+      "text": "Won 4 Oscars. 12 nominations."
+    },
+    "lastupdated": "1983-06-15 12:00:00.000000000",
+    "year": 1982,
+    "imdb": {
+      "rating": 7.9,
+      "votes": 420000,
+      "id": 83964
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 350000,
+        "meter": 72
+      },
+      "dvd": {
+        "$date": "1983-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.1,
+        "numReviews": 30,
+        "meter": 98
+      },
+      "lastUpdated": {
+        "$date": "1984-01-01T10:00:00.000Z"
+      },
+      "rotten": 1,
+      "production": "Amblin Entertainment",
+      "fresh": 29
+    }
+  },
+  {
+    "plot": "A blade runner must pursue and terminate replicants who have returned to Earth.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "runtime": 117,
+    "rated": "R",
+    "cast": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young",
+      "Edward James Olmos",
+      "Daryl Hannah"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Blade Runner",
+    "fullplot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1982-06-25T00:00:00.000Z"
+    },
+    "directors": [
+      "Ridley Scott"
+    ],
+    "writers": [
+      "Hampton Fancher (screenplay)",
+      "David Peoples (screenplay)",
+      "Philip K. Dick (novel)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 2,
+      "text": "2 nominations."
+    },
+    "lastupdated": "1983-06-15 12:00:00.000000000",
+    "year": 1982,
+    "imdb": {
+      "rating": 8.1,
+      "votes": 750000,
+      "id": 83048
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.0,
+        "numReviews": 200000,
+        "meter": 91
+      },
+      "dvd": {
+        "$date": "1983-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.9,
+        "numReviews": 15,
+        "meter": 89
+      },
+      "lastUpdated": {
+        "$date": "1984-01-01T10:00:00.000Z"
+      },
+      "rotten": 2,
+      "production": "Warner Bros.",
+      "fresh": 13
+    }
+  },
+  {
+    "plot": "A family heads to an isolated hotel where a sinister presence influences the father into violence.",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "runtime": 146,
+    "rated": "R",
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd",
+      "Scatman Crothers",
+      "Barry Nelson"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Shining",
+    "fullplot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1980-05-23T00:00:00.000Z"
+    },
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "writers": [
+      "Stanley Kubrick (screenplay)",
+      "Diane Johnson (screenplay)",
+      "Stephen King (novel)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 0,
+      "text": "No major award wins."
+    },
+    "lastupdated": "1981-06-15 12:00:00.000000000",
+    "year": 1980,
+    "imdb": {
+      "rating": 8.4,
+      "votes": 980000,
+      "id": 81095
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.0,
+        "numReviews": 300000,
+        "meter": 93
+      },
+      "dvd": {
+        "$date": "1981-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.4,
+        "numReviews": 70,
+        "meter": 84
+      },
+      "lastUpdated": {
+        "$date": "1982-01-01T10:00:00.000Z"
+      },
+      "rotten": 10,
+      "production": "Warner Bros.",
+      "fresh": 59
+    }
+  },
+  {
+    "plot": "A teenager is accidentally sent thirty years into the past in a time-traveling DeLorean.",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "runtime": 116,
+    "rated": "PG",
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover",
+      "Thomas F. Wilson"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Back to the Future",
+    "fullplot": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1985-07-03T00:00:00.000Z"
+    },
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "writers": [
+      "Robert Zemeckis (screenplay)",
+      "Bob Gale (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 4,
+      "text": "Won 1 Oscar. 4 nominations."
+    },
+    "lastupdated": "1986-06-15 12:00:00.000000000",
+    "year": 1985,
+    "imdb": {
+      "rating": 8.5,
+      "votes": 1200000,
+      "id": 88763
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.5,
+        "numReviews": 450000,
+        "meter": 96
+      },
+      "dvd": {
+        "$date": "1986-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.7,
+        "numReviews": 15,
+        "meter": 93
+      },
+      "lastUpdated": {
+        "$date": "1987-01-01T10:00:00.000Z"
+      },
+      "rotten": 1,
+      "production": "Universal Pictures",
+      "fresh": 14
+    }
+  },
+  {
+    "plot": "Decades after surviving the Nostromo incident, Ellen Ripley is sent back to LV-426.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "runtime": 137,
+    "rated": "R",
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn",
+      "Paul Reiser",
+      "Lance Henriksen"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Aliens",
+    "fullplot": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the planet's deadly alien lifeforms once again.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1986-07-18T00:00:00.000Z"
+    },
+    "directors": [
+      "James Cameron"
+    ],
+    "writers": [
+      "James Cameron (screenplay)",
+      "David Giler (story)",
+      "Walter Hill (story)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 7,
+      "text": "Won 2 Oscars. 7 nominations."
+    },
+    "lastupdated": "1987-06-15 12:00:00.000000000",
+    "year": 1986,
+    "imdb": {
+      "rating": 8.4,
+      "votes": 720000,
+      "id": 90640
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 250000,
+        "meter": 94
+      },
+      "dvd": {
+        "$date": "1987-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.8,
+        "numReviews": 25,
+        "meter": 94
+      },
+      "lastUpdated": {
+        "$date": "1988-01-01T10:00:00.000Z"
+      },
+      "rotten": 2,
+      "production": "20th Century Fox",
+      "fresh": 23
+    }
+  },
+  {
+    "plot": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate.",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "runtime": 98,
+    "rated": "PG",
+    "cast": [
+      "Cary Elwes",
+      "Robin Wright",
+      "Mandy Patinkin",
+      "Chris Sarandon",
+      "Wallace Shawn"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Princess Bride",
+    "fullplot": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1987-10-09T00:00:00.000Z"
+    },
+    "directors": [
+      "Rob Reiner"
+    ],
+    "writers": [
+      "William Goldman (screenplay)",
+      "William Goldman (novel)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "1988-06-15 12:00:00.000000000",
+    "year": 1987,
+    "imdb": {
+      "rating": 8.0,
+      "votes": 420000,
+      "id": 91048
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 300000,
+        "meter": 95
+      },
+      "dvd": {
+        "$date": "1988-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.0,
+        "numReviews": 25,
+        "meter": 97
+      },
+      "lastUpdated": {
+        "$date": "1989-01-01T10:00:00.000Z"
+      },
+      "rotten": 1,
+      "production": "Act III Communications",
+      "fresh": 24
+    }
+  },
+  {
+    "plot": "A New York City cop tries to save his estranged wife and others taken hostage by terrorists.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "runtime": 132,
+    "rated": "R",
+    "cast": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia",
+      "Reginald VelJohnson",
+      "Paul Gleason"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Die Hard",
+    "fullplot": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1988-07-15T00:00:00.000Z"
+    },
+    "directors": [
+      "John McTiernan"
+    ],
+    "writers": [
+      "Jeb Stuart (screenplay)",
+      "Steven E. de Souza (screenplay)",
+      "Roderick Thorp (novel)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 4,
+      "text": "Won 4 technical awards. 4 nominations."
+    },
+    "lastupdated": "1989-06-15 12:00:00.000000000",
+    "year": 1988,
+    "imdb": {
+      "rating": 8.2,
+      "votes": 890000,
+      "id": 95921
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 350000,
+        "meter": 94
+      },
+      "dvd": {
+        "$date": "1989-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.2,
+        "numReviews": 70,
+        "meter": 94
+      },
+      "lastUpdated": {
+        "$date": "1990-01-01T10:00:00.000Z"
+      },
+      "rotten": 4,
+      "production": "20th Century Fox",
+      "fresh": 66
+    }
+  },
+  {
+    "plot": "A self-centered hotshot learns he has an autistic brother and they embark on a cross-country trip.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 133,
+    "rated": "R",
+    "cast": [
+      "Dustin Hoffman",
+      "Tom Cruise",
+      "Valeria Golino",
+      "Bonnie Hunt",
+      "Jerry Molen"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Rain Man",
+    "fullplot": "After a selfish L.A. yuppie learns his estranged father left his fortune to an autistic savant brother he never knew he had, he absconds with his brother in an attempt to gain a larger inheritance.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1988-12-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Barry Levinson"
+    ],
+    "writers": [
+      "Barry Morrow (story)",
+      "Ronald Bass (screenplay)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 8,
+      "text": "Won 4 Oscars including Best Picture. 8 nominations."
+    },
+    "lastupdated": "1989-06-15 12:00:00.000000000",
+    "year": 1988,
+    "imdb": {
+      "rating": 8.0,
+      "votes": 520000,
+      "id": 95963
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.0,
+        "numReviews": 150000,
+        "meter": 90
+      },
+      "dvd": {
+        "$date": "1989-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.0,
+        "numReviews": 25,
+        "meter": 89
+      },
+      "lastUpdated": {
+        "$date": "1990-01-01T10:00:00.000Z"
+      },
+      "rotten": 3,
+      "production": "United Artists",
+      "fresh": 22
+    }
+  },
+  {
+    "plot": "The story of Henry Hill and his life in the mob.",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 145,
+    "rated": "R",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco",
+      "Paul Sorvino"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Goodfellas",
+    "fullplot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1990-09-19T00:00:00.000Z"
+    },
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "Nicholas Pileggi (book)",
+      "Martin Scorsese (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 6,
+      "text": "Won 1 Oscar. 6 nominations."
+    },
+    "lastupdated": "1991-06-15 12:00:00.000000000",
+    "year": 1990,
+    "imdb": {
+      "rating": 8.7,
+      "votes": 1100000,
+      "id": 99821
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 400000,
+        "meter": 97
+      },
+      "dvd": {
+        "$date": "1991-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.0,
+        "numReviews": 80,
+        "meter": 96
+      },
+      "lastUpdated": {
+        "$date": "1992-01-01T10:00:00.000Z"
+      },
+      "rotten": 3,
+      "production": "Warner Bros.",
+      "fresh": 77
+    }
+  },
+  {
+    "plot": "A young FBI cadet must receive the help of an incarcerated cannibal killer to catch another serial killer.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "runtime": 118,
+    "rated": "R",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn",
+      "Ted Levine",
+      "Anthony Heald"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Silence of the Lambs",
+    "fullplot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1991-02-14T00:00:00.000Z"
+    },
+    "directors": [
+      "Jonathan Demme"
+    ],
+    "writers": [
+      "Thomas Harris (novel)",
+      "Ted Tally (screenplay)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 7,
+      "text": "Won 5 Oscars including Best Picture. 7 nominations."
+    },
+    "lastupdated": "1992-06-15 12:00:00.000000000",
+    "year": 1991,
+    "imdb": {
+      "rating": 8.6,
+      "votes": 1400000,
+      "id": 102788
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 350000,
+        "meter": 95
+      },
+      "dvd": {
+        "$date": "1992-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.6,
+        "numReviews": 100,
+        "meter": 96
+      },
+      "lastUpdated": {
+        "$date": "1993-01-01T10:00:00.000Z"
+      },
+      "rotten": 4,
+      "production": "Orion Pictures",
+      "fresh": 96
+    }
+  },
+  {
+    "plot": "A pragmatic paleontologist tours an almost complete theme park on an island in Central America.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "runtime": 127,
+    "rated": "PG-13",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough",
+      "Bob Peck"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Jurassic Park",
+    "fullplot": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1993-06-11T00:00:00.000Z"
+    },
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Michael Crichton (novel)",
+      "Michael Crichton (screenplay)",
+      "David Koepp (screenplay)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 3,
+      "text": "Won 3 technical Oscars. 3 nominations."
+    },
+    "lastupdated": "1994-06-15 12:00:00.000000000",
+    "year": 1993,
+    "imdb": {
+      "rating": 8.2,
+      "votes": 950000,
+      "id": 107290
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 500000,
+        "meter": 91
+      },
+      "dvd": {
+        "$date": "1994-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.5,
+        "numReviews": 120,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "1995-01-01T10:00:00.000Z"
+      },
+      "rotten": 11,
+      "production": "Universal Pictures",
+      "fresh": 109
+    }
+  },
+  {
+    "plot": "The lives of two mob hitmen, a boxer, and others intertwine in four tales of violence.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 154,
+    "rated": "R",
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson",
+      "Bruce Willis",
+      "Ving Rhames"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Pulp Fiction",
+    "fullplot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1994-10-14T00:00:00.000Z"
+    },
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "writers": [
+      "Quentin Tarantino (screenplay)",
+      "Roger Avary (story)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 7,
+      "text": "Won 1 Oscar. 7 nominations including Best Picture."
+    },
+    "lastupdated": "1995-06-15 12:00:00.000000000",
+    "year": 1994,
+    "imdb": {
+      "rating": 8.9,
+      "votes": 2100000,
+      "id": 110912
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 600000,
+        "meter": 96
+      },
+      "dvd": {
+        "$date": "1995-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.4,
+        "numReviews": 100,
+        "meter": 92
+      },
+      "lastUpdated": {
+        "$date": "1996-01-01T10:00:00.000Z"
+      },
+      "rotten": 8,
+      "production": "Miramax",
+      "fresh": 92
+    }
+  },
+  {
+    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 142,
+    "rated": "R",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler",
+      "Clancy Brown"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Shawshank Redemption",
+    "fullplot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1994-10-14T00:00:00.000Z"
+    },
+    "directors": [
+      "Frank Darabont"
+    ],
+    "writers": [
+      "Stephen King (story)",
+      "Frank Darabont (screenplay)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 7,
+      "text": "7 nominations."
+    },
+    "lastupdated": "1995-06-15 12:00:00.000000000",
+    "year": 1994,
+    "imdb": {
+      "rating": 9.3,
+      "votes": 2800000,
+      "id": 111161
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.5,
+        "numReviews": 800000,
+        "meter": 98
+      },
+      "dvd": {
+        "$date": "1995-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.2,
+        "numReviews": 80,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "1996-01-01T10:00:00.000Z"
+      },
+      "rotten": 7,
+      "production": "Castle Rock Entertainment",
+      "fresh": 73
+    }
+  },
+  {
+    "plot": "A cowboy doll is profoundly threatened when a new spaceman action figure supplants him.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "runtime": 81,
+    "rated": "G",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney",
+      "Wallace Shawn"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Toy Story",
+    "fullplot": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1995-11-22T00:00:00.000Z"
+    },
+    "directors": [
+      "John Lasseter"
+    ],
+    "writers": [
+      "Joss Whedon (screenplay)",
+      "Andrew Stanton (screenplay)",
+      "John Lasseter (story)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 3,
+      "text": "3 nominations including Best Original Screenplay."
+    },
+    "lastupdated": "1996-06-15 12:00:00.000000000",
+    "year": 1995,
+    "imdb": {
+      "rating": 8.3,
+      "votes": 980000,
+      "id": 114976
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 400000,
+        "meter": 92
+      },
+      "dvd": {
+        "$date": "1996-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.5,
+        "numReviews": 80,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "1997-01-01T10:00:00.000Z"
+      },
+      "rotten": 0,
+      "production": "Pixar Animation Studios",
+      "fresh": 80
+    }
+  },
+  {
+    "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious ship.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 194,
+    "rated": "PG-13",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane",
+      "Kathy Bates",
+      "Frances Fisher"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Titanic",
+    "fullplot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1997-12-19T00:00:00.000Z"
+    },
+    "directors": [
+      "James Cameron"
+    ],
+    "writers": [
+      "James Cameron (screenplay)"
+    ],
+    "awards": {
+      "wins": 11,
+      "nominations": 14,
+      "text": "Won 11 Oscars including Best Picture. 14 nominations."
+    },
+    "lastupdated": "1998-06-15 12:00:00.000000000",
+    "year": 1997,
+    "imdb": {
+      "rating": 7.9,
+      "votes": 1200000,
+      "id": 120386
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 700000,
+        "meter": 69
+      },
+      "dvd": {
+        "$date": "1998-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.0,
+        "numReviews": 80,
+        "meter": 88
+      },
+      "lastUpdated": {
+        "$date": "1999-01-01T10:00:00.000Z"
+      },
+      "rotten": 18,
+      "production": "20th Century Fox",
+      "fresh": 70
+    }
+  },
+  {
+    "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper.",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "runtime": 169,
+    "rated": "R",
+    "cast": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore",
+      "Edward Burns",
+      "Barry Pepper"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Saving Private Ryan",
+    "fullplot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1998-07-24T00:00:00.000Z"
+    },
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Robert Rodat (screenplay)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 11,
+      "text": "Won 5 Oscars. 11 nominations."
+    },
+    "lastupdated": "1999-06-15 12:00:00.000000000",
+    "year": 1998,
+    "imdb": {
+      "rating": 8.6,
+      "votes": 1400000,
+      "id": 120810
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 500000,
+        "meter": 95
+      },
+      "dvd": {
+        "$date": "1999-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.6,
+        "numReviews": 100,
+        "meter": 93
+      },
+      "lastUpdated": {
+        "$date": "2000-01-01T10:00:00.000Z"
+      },
+      "rotten": 7,
+      "production": "DreamWorks Pictures",
+      "fresh": 93
+    }
+  },
+  {
+    "plot": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "runtime": 136,
+    "rated": "R",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Joe Pantoliano"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Matrix",
+    "fullplot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth: the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1999-03-31T00:00:00.000Z"
+    },
+    "directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "writers": [
+      "Lana Wachowski (screenplay)",
+      "Lilly Wachowski (screenplay)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 4,
+      "text": "Won 4 Oscars. 4 nominations."
+    },
+    "lastupdated": "2000-06-15 12:00:00.000000000",
+    "year": 1999,
+    "imdb": {
+      "rating": 8.7,
+      "votes": 1900000,
+      "id": 130882
+    },
+    "countries": [
+      "USA",
+      "Australia"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 600000,
+        "meter": 85
+      },
+      "dvd": {
+        "$date": "1999-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.7,
+        "numReviews": 35,
+        "meter": 87
+      },
+      "lastUpdated": {
+        "$date": "2001-01-01T10:00:00.000Z"
+      },
+      "rotten": 5,
+      "production": "Warner Bros.",
+      "fresh": 30
+    }
+  },
+  {
+    "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 139,
+    "rated": "R",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf",
+      "Jared Leto"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Fight Club",
+    "fullplot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "1999-10-15T00:00:00.000Z"
+    },
+    "directors": [
+      "David Fincher"
+    ],
+    "writers": [
+      "Chuck Palahniuk (novel)",
+      "Jim Uhls (screenplay)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2000-06-15 12:00:00.000000000",
+    "year": 1999,
+    "imdb": {
+      "rating": 8.8,
+      "votes": 2100000,
+      "id": 137566
+    },
+    "countries": [
+      "USA",
+      "Germany"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 500000,
+        "meter": 79
+      },
+      "dvd": {
+        "$date": "2000-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.1,
+        "numReviews": 80,
+        "meter": 79
+      },
+      "lastUpdated": {
+        "$date": "2001-01-01T10:00:00.000Z"
+      },
+      "rotten": 17,
+      "production": "20th Century Fox",
+      "fresh": 63
+    }
+  },
+  {
+    "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 155,
+    "rated": "R",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed",
+      "Richard Harris"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Gladiator",
+    "fullplot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2000-05-05T00:00:00.000Z"
+    },
+    "directors": [
+      "Ridley Scott"
+    ],
+    "writers": [
+      "David Franzoni (screenplay)",
+      "John Logan (screenplay)",
+      "William Nicholson (screenplay)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 12,
+      "text": "Won 5 Oscars including Best Picture. 12 nominations."
+    },
+    "lastupdated": "2001-06-15 12:00:00.000000000",
+    "year": 2000,
+    "imdb": {
+      "rating": 8.5,
+      "votes": 1500000,
+      "id": 172584
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 500000,
+        "meter": 87
+      },
+      "dvd": {
+        "$date": "2001-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.0,
+        "numReviews": 150,
+        "meter": 77
+      },
+      "lastUpdated": {
+        "$date": "2002-01-01T10:00:00.000Z"
+      },
+      "rotten": 35,
+      "production": "DreamWorks Pictures",
+      "fresh": 116
+    }
+  },
+  {
+    "plot": "A meek Hobbit and eight companions set out on a journey to destroy the powerful One Ring.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "runtime": 178,
+    "rated": "PG-13",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Orlando Bloom"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "fullplot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2001-12-19T00:00:00.000Z"
+    },
+    "directors": [
+      "Peter Jackson"
+    ],
+    "writers": [
+      "J.R.R. Tolkien (novel)",
+      "Fran Walsh (screenplay)",
+      "Philippa Boyens (screenplay)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 13,
+      "text": "Won 4 Oscars. 13 nominations."
+    },
+    "lastupdated": "2002-06-15 12:00:00.000000000",
+    "year": 2001,
+    "imdb": {
+      "rating": 8.9,
+      "votes": 1900000,
+      "id": 120737
+    },
+    "countries": [
+      "USA",
+      "New Zealand"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.5,
+        "numReviews": 700000,
+        "meter": 95
+      },
+      "dvd": {
+        "$date": "2002-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.1,
+        "numReviews": 200,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "2003-01-01T10:00:00.000Z"
+      },
+      "rotten": 18,
+      "production": "New Line Cinema",
+      "fresh": 182
+    }
+  },
+  {
+    "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods and spirits.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "runtime": 125,
+    "rated": "PG",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takeshi Naito",
+      "Yasuko Sawaguchi"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Spirited Away",
+    "fullplot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2001-09-20T00:00:00.000Z"
+    },
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "writers": [
+      "Hayao Miyazaki (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 1,
+      "text": "Won 1 Oscar for Best Animated Feature."
+    },
+    "lastupdated": "2002-06-15 12:00:00.000000000",
+    "year": 2001,
+    "imdb": {
+      "rating": 8.6,
+      "votes": 780000,
+      "id": 245843
+    },
+    "countries": [
+      "Japan"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 200000,
+        "meter": 97
+      },
+      "dvd": {
+        "$date": "2003-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.7,
+        "numReviews": 150,
+        "meter": 97
+      },
+      "lastUpdated": {
+        "$date": "2003-01-01T10:00:00.000Z"
+      },
+      "rotten": 5,
+      "production": "Studio Ghibli",
+      "fresh": 146
+    }
+  },
+  {
+    "plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "runtime": 108,
+    "rated": "R",
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Kirsten Dunst",
+      "Mark Ruffalo",
+      "Elijah Wood"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "fullplot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2004-03-19T00:00:00.000Z"
+    },
+    "directors": [
+      "Michel Gondry"
+    ],
+    "writers": [
+      "Charlie Kaufman (screenplay)",
+      "Michel Gondry (story)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 2,
+      "text": "Won 1 Oscar. 2 nominations."
+    },
+    "lastupdated": "2005-06-15 12:00:00.000000000",
+    "year": 2004,
+    "imdb": {
+      "rating": 8.3,
+      "votes": 980000,
+      "id": 333632
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 250000,
+        "meter": 92
+      },
+      "dvd": {
+        "$date": "2004-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.9,
+        "numReviews": 230,
+        "meter": 93
+      },
+      "lastUpdated": {
+        "$date": "2006-01-01T10:00:00.000Z"
+      },
+      "rotten": 17,
+      "production": "Focus Features",
+      "fresh": 213
+    }
+  },
+  {
+    "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 151,
+    "rated": "R",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson",
+      "Mark Wahlberg",
+      "Martin Sheen"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Departed",
+    "fullplot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2006-10-06T00:00:00.000Z"
+    },
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "writers": [
+      "William Monahan (screenplay)",
+      "Alan Mak (film)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 10,
+      "text": "Won 4 Oscars including Best Picture. 10 nominations."
+    },
+    "lastupdated": "2007-06-15 12:00:00.000000000",
+    "year": 2006,
+    "imdb": {
+      "rating": 8.5,
+      "votes": 1200000,
+      "id": 407880
+    },
+    "countries": [
+      "USA",
+      "Hong Kong"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 350000,
+        "meter": 94
+      },
+      "dvd": {
+        "$date": "2007-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.5,
+        "numReviews": 220,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "2008-01-01T10:00:00.000Z"
+      },
+      "rotten": 20,
+      "production": "Warner Bros.",
+      "fresh": 200
+    }
+  },
+  {
+    "plot": "In the Falangist Spain of 1944, a bookish young stepdaughter of a sadistic army officer escapes into a dark fantasy world.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "War"
+    ],
+    "runtime": 118,
+    "rated": "R",
+    "cast": [
+      "Ivana Baquero",
+      "Sergi L\u00f3pez",
+      "Maribel Verd\u00fa",
+      "Doug Jones",
+      "Ariadna Gil"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Pan's Labyrinth",
+    "fullplot": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2006-10-11T00:00:00.000Z"
+    },
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "writers": [
+      "Guillermo del Toro (screenplay)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 6,
+      "text": "Won 3 Oscars. 6 nominations."
+    },
+    "lastupdated": "2007-06-15 12:00:00.000000000",
+    "year": 2006,
+    "imdb": {
+      "rating": 8.2,
+      "votes": 650000,
+      "id": 457512
+    },
+    "countries": [
+      "Spain",
+      "Mexico"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 180000,
+        "meter": 91
+      },
+      "dvd": {
+        "$date": "2007-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.2,
+        "numReviews": 200,
+        "meter": 95
+      },
+      "lastUpdated": {
+        "$date": "2008-01-01T10:00:00.000Z"
+      },
+      "rotten": 10,
+      "production": "Telecinco Cinema",
+      "fresh": 190
+    }
+  },
+  {
+    "plot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 158,
+    "rated": "R",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Kevin J. O'Connor",
+      "Ciar\u00e1n Hinds",
+      "Dillon Freasier"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "There Will Be Blood",
+    "fullplot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2007-12-26T00:00:00.000Z"
+    },
+    "directors": [
+      "Paul Thomas Anderson"
+    ],
+    "writers": [
+      "Upton Sinclair (novel)",
+      "Paul Thomas Anderson (screenplay)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 8,
+      "text": "Won 2 Oscars. 8 nominations."
+    },
+    "lastupdated": "2008-06-15 12:00:00.000000000",
+    "year": 2007,
+    "imdb": {
+      "rating": 8.2,
+      "votes": 580000,
+      "id": 468941
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.1,
+        "numReviews": 150000,
+        "meter": 91
+      },
+      "dvd": {
+        "$date": "2008-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.3,
+        "numReviews": 220,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "2009-01-01T10:00:00.000Z"
+      },
+      "rotten": 20,
+      "production": "Paramount Vantage",
+      "fresh": 200
+    }
+  },
+  {
+    "plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 122,
+    "rated": "R",
+    "cast": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin",
+      "Woody Harrelson",
+      "Kelly Macdonald"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "No Country for Old Men",
+    "fullplot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2007-11-09T00:00:00.000Z"
+    },
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "writers": [
+      "Cormac McCarthy (novel)",
+      "Joel Coen (screenplay)",
+      "Ethan Coen (screenplay)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 8,
+      "text": "Won 4 Oscars including Best Picture. 8 nominations."
+    },
+    "lastupdated": "2008-06-15 12:00:00.000000000",
+    "year": 2007,
+    "imdb": {
+      "rating": 8.2,
+      "votes": 980000,
+      "id": 476710
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.1,
+        "numReviews": 300000,
+        "meter": 86
+      },
+      "dvd": {
+        "$date": "2008-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.1,
+        "numReviews": 250,
+        "meter": 93
+      },
+      "lastUpdated": {
+        "$date": "2009-01-01T10:00:00.000Z"
+      },
+      "rotten": 18,
+      "production": "Miramax",
+      "fresh": 232
+    }
+  },
+  {
+    "plot": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "runtime": 98,
+    "rated": "G",
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard",
+      "MacInTalk"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "WALL-E",
+    "fullplot": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2008-06-27T00:00:00.000Z"
+    },
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "writers": [
+      "Andrew Stanton (screenplay)",
+      "Jim Reardon (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 6,
+      "text": "Won 1 Oscar. 6 nominations."
+    },
+    "lastupdated": "2009-06-15 12:00:00.000000000",
+    "year": 2008,
+    "imdb": {
+      "rating": 8.4,
+      "votes": 1100000,
+      "id": 91088
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 350000,
+        "meter": 89
+      },
+      "dvd": {
+        "$date": "2008-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.5,
+        "numReviews": 250,
+        "meter": 96
+      },
+      "lastUpdated": {
+        "$date": "2010-01-01T10:00:00.000Z"
+      },
+      "rotten": 10,
+      "production": "Pixar Animation Studios",
+      "fresh": 240
+    }
+  },
+  {
+    "plot": "When the menace known as the Joker wreaks havoc on Gotham, Batman must accept one of the greatest tests.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 152,
+    "rated": "PG-13",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Dark Knight",
+    "fullplot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2008-07-18T00:00:00.000Z"
+    },
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Jonathan Nolan (screenplay)",
+      "Christopher Nolan (screenplay)",
+      "Bob Kane (characters)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 8,
+      "text": "Won 2 Oscars. 8 nominations."
+    },
+    "lastupdated": "2009-06-15 12:00:00.000000000",
+    "year": 2008,
+    "imdb": {
+      "rating": 9.0,
+      "votes": 2600000,
+      "id": 468569
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.5,
+        "numReviews": 900000,
+        "meter": 94
+      },
+      "dvd": {
+        "$date": "2008-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.5,
+        "numReviews": 330,
+        "meter": 94
+      },
+      "lastUpdated": {
+        "$date": "2010-01-01T10:00:00.000Z"
+      },
+      "rotten": 20,
+      "production": "Warner Bros.",
+      "fresh": 310
+    }
+  },
+  {
+    "plot": "A thief who steals corporate secrets through dream-sharing technology is given a chance at redemption.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "runtime": 148,
+    "rated": "PG-13",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy",
+      "Ken Watanabe"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Inception",
+    "fullplot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2010-07-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Christopher Nolan (screenplay)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 8,
+      "text": "Won 4 Oscars. 8 nominations."
+    },
+    "lastupdated": "2011-06-15 12:00:00.000000000",
+    "year": 2010,
+    "imdb": {
+      "rating": 8.8,
+      "votes": 2200000,
+      "id": 1375663
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 700000,
+        "meter": 91
+      },
+      "dvd": {
+        "$date": "2010-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.7,
+        "numReviews": 350,
+        "meter": 87
+      },
+      "lastUpdated": {
+        "$date": "2012-01-01T10:00:00.000Z"
+      },
+      "rotten": 46,
+      "production": "Warner Bros.",
+      "fresh": 304
+    }
+  },
+  {
+    "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become Facebook.",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "runtime": 120,
+    "rated": "PG-13",
+    "cast": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake",
+      "Armie Hammer",
+      "Max Minghella"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Social Network",
+    "fullplot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2010-10-01T00:00:00.000Z"
+    },
+    "directors": [
+      "David Fincher"
+    ],
+    "writers": [
+      "Ben Mezrich (book)",
+      "Aaron Sorkin (screenplay)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 8,
+      "text": "Won 3 Oscars. 8 nominations."
+    },
+    "lastupdated": "2011-06-15 12:00:00.000000000",
+    "year": 2010,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 680000,
+      "id": 1285018
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.1,
+        "numReviews": 400000,
+        "meter": 93
+      },
+      "dvd": {
+        "$date": "2011-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.4,
+        "numReviews": 300,
+        "meter": 96
+      },
+      "lastUpdated": {
+        "$date": "2012-01-01T10:00:00.000Z"
+      },
+      "rotten": 12,
+      "production": "Columbia Pictures",
+      "fresh": 288
+    }
+  },
+  {
+    "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "runtime": 169,
+    "rated": "PG-13",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Mackenzie Foy",
+      "Michael Caine"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Interstellar",
+    "fullplot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival as Earth becomes increasingly uninhabitable.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2014-11-07T00:00:00.000Z"
+    },
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Jonathan Nolan (screenplay)",
+      "Christopher Nolan (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 5,
+      "text": "Won 1 Oscar. 5 nominations."
+    },
+    "lastupdated": "2015-06-15 12:00:00.000000000",
+    "year": 2014,
+    "imdb": {
+      "rating": 8.7,
+      "votes": 1900000,
+      "id": 816692
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 600000,
+        "meter": 86
+      },
+      "dvd": {
+        "$date": "2015-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.4,
+        "numReviews": 350,
+        "meter": 72
+      },
+      "lastUpdated": {
+        "$date": "2016-01-01T10:00:00.000Z"
+      },
+      "rotten": 98,
+      "production": "Paramount Pictures",
+      "fresh": 252
+    }
+  },
+  {
+    "plot": "A promising young drummer enrolls at a cut-throat music conservatory.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "runtime": 106,
+    "rated": "R",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist",
+      "Austin Stowell"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Whiplash",
+    "fullplot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2014-10-10T00:00:00.000Z"
+    },
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "writers": [
+      "Damien Chazelle (screenplay)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 5,
+      "text": "Won 3 Oscars. 5 nominations."
+    },
+    "lastupdated": "2015-06-15 12:00:00.000000000",
+    "year": 2014,
+    "imdb": {
+      "rating": 8.5,
+      "votes": 850000,
+      "id": 258687
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 250000,
+        "meter": 93
+      },
+      "dvd": {
+        "$date": "2015-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.8,
+        "numReviews": 280,
+        "meter": 94
+      },
+      "lastUpdated": {
+        "$date": "2016-01-01T10:00:00.000Z"
+      },
+      "rotten": 17,
+      "production": "Bold Films",
+      "fresh": 263
+    }
+  },
+  {
+    "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "runtime": 120,
+    "rated": "R",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne",
+      "Rosie Huntington-Whiteley"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Mad Max: Fury Road",
+    "fullplot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners and a drifter named Max.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2015-05-15T00:00:00.000Z"
+    },
+    "directors": [
+      "George Miller"
+    ],
+    "writers": [
+      "George Miller (screenplay)",
+      "Brendan McCarthy (story)",
+      "Nick Lathouris (story)"
+    ],
+    "awards": {
+      "wins": 6,
+      "nominations": 10,
+      "text": "Won 6 Oscars. 10 nominations."
+    },
+    "lastupdated": "2016-06-15 12:00:00.000000000",
+    "year": 2015,
+    "imdb": {
+      "rating": 8.1,
+      "votes": 1050000,
+      "id": 1392194
+    },
+    "countries": [
+      "Australia",
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 500000,
+        "meter": 86
+      },
+      "dvd": {
+        "$date": "2015-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.7,
+        "numReviews": 380,
+        "meter": 97
+      },
+      "lastUpdated": {
+        "$date": "2017-01-01T10:00:00.000Z"
+      },
+      "rotten": 12,
+      "production": "Warner Bros.",
+      "fresh": 368
+    }
+  },
+  {
+    "plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "runtime": 128,
+    "rated": "PG-13",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend",
+      "Rosemarie DeWitt",
+      "J.K. Simmons"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "La La Land",
+    "fullplot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2016-12-09T00:00:00.000Z"
+    },
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "writers": [
+      "Damien Chazelle (screenplay)"
+    ],
+    "awards": {
+      "wins": 6,
+      "nominations": 14,
+      "text": "Won 6 Oscars. 14 nominations."
+    },
+    "lastupdated": "2017-06-15 12:00:00.000000000",
+    "year": 2016,
+    "imdb": {
+      "rating": 8.0,
+      "votes": 580000,
+      "id": 3783954
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 350000,
+        "meter": 91
+      },
+      "dvd": {
+        "$date": "2017-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.9,
+        "numReviews": 400,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "2018-01-01T10:00:00.000Z"
+      },
+      "rotten": 36,
+      "production": "Summit Entertainment",
+      "fresh": 364
+    }
+  },
+  {
+    "plot": "A young African-American visits his white girlfriend's parents for the weekend.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 104,
+    "rated": "R",
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Catherine Keener",
+      "Bradley Whitford",
+      "Caleb Landry Jones"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Get Out",
+    "fullplot": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2017-02-24T00:00:00.000Z"
+    },
+    "directors": [
+      "Jordan Peele"
+    ],
+    "writers": [
+      "Jordan Peele (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 4,
+      "text": "Won 1 Oscar. 4 nominations including Best Picture."
+    },
+    "lastupdated": "2018-06-15 12:00:00.000000000",
+    "year": 2017,
+    "imdb": {
+      "rating": 7.7,
+      "votes": 580000,
+      "id": 5055858
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 300000,
+        "meter": 86
+      },
+      "dvd": {
+        "$date": "2017-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.7,
+        "numReviews": 350,
+        "meter": 98
+      },
+      "lastUpdated": {
+        "$date": "2019-01-01T10:00:00.000Z"
+      },
+      "rotten": 7,
+      "production": "Blumhouse Productions",
+      "fresh": 343
+    }
+  },
+  {
+    "plot": "Allied soldiers from Belgium, the British Empire and France are surrounded by the German army.",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "runtime": 106,
+    "rated": "PG-13",
+    "cast": [
+      "Fionn Whitehead",
+      "Barry Keoghan",
+      "Mark Rylance",
+      "Tom Hardy",
+      "Kenneth Branagh"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Dunkirk",
+    "fullplot": "Allied soldiers from Belgium, the British Empire and France are surrounded by the German army and evacuated during a fierce battle in World War II.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2017-07-21T00:00:00.000Z"
+    },
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "writers": [
+      "Christopher Nolan (screenplay)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 8,
+      "text": "Won 3 Oscars. 8 nominations."
+    },
+    "lastupdated": "2018-06-15 12:00:00.000000000",
+    "year": 2017,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 620000,
+      "id": 5013056
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.1,
+        "numReviews": 280000,
+        "meter": 81
+      },
+      "dvd": {
+        "$date": "2017-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.4,
+        "numReviews": 380,
+        "meter": 92
+      },
+      "lastUpdated": {
+        "$date": "2019-01-01T10:00:00.000Z"
+      },
+      "rotten": 31,
+      "production": "Warner Bros.",
+      "fresh": 349
+    }
+  },
+  {
+    "plot": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": 134,
+    "rated": "PG-13",
+    "cast": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira",
+      "Martin Freeman"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Black Panther",
+    "fullplot": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2018-02-16T00:00:00.000Z"
+    },
+    "directors": [
+      "Ryan Coogler"
+    ],
+    "writers": [
+      "Ryan Coogler (screenplay)",
+      "Joe Robert Cole (screenplay)",
+      "Stan Lee (characters)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 7,
+      "text": "Won 3 Oscars. 7 nominations including Best Picture."
+    },
+    "lastupdated": "2019-06-15 12:00:00.000000000",
+    "year": 2018,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 720000,
+      "id": 1825683
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 500000,
+        "meter": 79
+      },
+      "dvd": {
+        "$date": "2018-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.0,
+        "numReviews": 400,
+        "meter": 96
+      },
+      "lastUpdated": {
+        "$date": "2020-01-01T10:00:00.000Z"
+      },
+      "rotten": 16,
+      "production": "Marvel Studios",
+      "fresh": 384
+    }
+  },
+  {
+    "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 132,
+    "rated": "R",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik",
+      "Park So-dam"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Parasite",
+    "fullplot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": "2019-11-08T00:00:00.000Z"
+    },
+    "directors": [
+      "Bong Joon Ho"
+    ],
+    "writers": [
+      "Bong Joon Ho (screenplay)",
+      "Han Jin-won (screenplay)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 6,
+      "text": "Won 4 Oscars including Best Picture. 6 nominations."
+    },
+    "lastupdated": "2020-06-15 12:00:00.000000000",
+    "year": 2019,
+    "imdb": {
+      "rating": 8.5,
+      "votes": 820000,
+      "id": 6751088
+    },
+    "countries": [
+      "South Korea"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 350000,
+        "meter": 93
+      },
+      "dvd": {
+        "$date": "2020-06-01T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9.3,
+        "numReviews": 380,
+        "meter": 99
+      },
+      "lastUpdated": {
+        "$date": "2021-01-01T10:00:00.000Z"
+      },
+      "rotten": 4,
+      "production": "CJ Entertainment",
+      "fresh": 376
     }
   }
 ]
