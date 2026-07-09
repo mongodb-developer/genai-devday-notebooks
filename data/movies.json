@@ -1,0 +1,440 @@
+[
+  {
+    "plot": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+    "runtime": 166,
+    "rated": "PG-13",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem",
+      "Josh Brolin",
+      "Austin Butler"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctYjA0NS00MzFlLWJiYmYtYzY1NzEyN2M4MGY2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Dune: Part Two",
+    "fullplot": "Following the events of the first film, Paul Atreides joins the Fremen and becomes Muad'Dib while embracing his destiny on the desert planet Arrakis. As he learns to harness the power of the spice and the sandworms, he must choose between love and the fate of the universe, confronting the forces that conspired against House Atreides.",
+    "languages": ["English"],
+    "released": { "$date": "2024-03-01T00:00:00.000Z" },
+    "directors": ["Denis Villeneuve"],
+    "writers": [
+      "Denis Villeneuve (screenplay)",
+      "Jon Spaihts (screenplay)",
+      "Frank Herbert (novel)"
+    ],
+    "awards": {
+      "wins": 6,
+      "nominations": 8,
+      "text": "Won 6 Oscars including Best Visual Effects. 8 nominations total."
+    },
+    "lastupdated": "2025-03-10 14:22:18.451000000",
+    "year": 2024,
+    "imdb": { "rating": 8.5, "votes": 412000, "id": 15239678 },
+    "countries": ["USA", "Canada"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 4.5, "numReviews": 25000, "meter": 95 },
+      "dvd": { "$date": "2024-06-25T00:00:00.000Z" },
+      "critic": { "rating": 8.4, "numReviews": 380, "meter": 92 },
+      "lastUpdated": { "$date": "2025-01-15T10:30:00.000Z" },
+      "rotten": 30,
+      "production": "Legendary Pictures",
+      "fresh": 350
+    }
+  },
+  {
+    "plot": "Deadpool is recruited by the Time Variance Authority to join a team tasked with saving his universe, teaming up with a reluctant Wolverine.",
+    "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
+    "runtime": 128,
+    "rated": "R",
+    "cast": [
+      "Ryan Reynolds",
+      "Hugh Jackman",
+      "Emma Corrin",
+      "Matthew Macfadyen",
+      "Morena Baccarin"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Deadpool & Wolverine",
+    "fullplot": "Wade Wilson's peaceful existence comes crashing down when the Time Variance Authority recruits him for a mission that will change the history of the Marvel Cinematic Universe. Reluctantly teaming up with a Wolverine from another timeline, Deadpool must save his world from oblivion.",
+    "languages": ["English"],
+    "released": { "$date": "2024-07-26T00:00:00.000Z" },
+    "directors": ["Shawn Levy"],
+    "writers": [
+      "Ryan Reynolds (screenplay)",
+      "Zeb Wells (screenplay)",
+      "Shawn Levy (screenplay)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 3,
+      "text": "2 wins including Best Stunt Ensemble. 3 nominations."
+    },
+    "lastupdated": "2025-02-14 09:15:42.883000000",
+    "year": 2024,
+    "imdb": { "rating": 7.7, "votes": 298000, "id": 6263850 },
+    "countries": ["USA"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 4.3, "numReviews": 50000, "meter": 96 },
+      "dvd": { "$date": "2024-10-22T00:00:00.000Z" },
+      "critic": { "rating": 7.2, "numReviews": 420, "meter": 78 },
+      "lastUpdated": { "$date": "2025-02-01T08:00:00.000Z" },
+      "rotten": 92,
+      "production": "Marvel Studios",
+      "fresh": 328
+    }
+  },
+  {
+    "plot": "Riley's mind headquarters undergoes a sudden demolition to make room for new emotions, as she enters her teenage years.",
+    "genres": ["Animation", "Adventure", "Comedy", "Drama", "Family"],
+    "runtime": 96,
+    "rated": "PG",
+    "cast": [
+      "Amy Poehler",
+      "Maya Hawke",
+      "Kensington Tallman",
+      "Liza Lapira",
+      "Tony Hale"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Inside Out 2",
+    "fullplot": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions. Joy, Sadness, Anger, Fear and Disgust have long been running a successful operation, but when Anxiety shows up, they aren't sure how to feel.",
+    "languages": ["English"],
+    "released": { "$date": "2024-06-14T00:00:00.000Z" },
+    "directors": ["Kelsey Mann"],
+    "writers": [
+      "Meg LeFauve (screenplay)",
+      "Dave Holstein (screenplay)",
+      "Kelsey Mann (story)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 2,
+      "text": "1 win. 2 nominations including Best Animated Feature."
+    },
+    "lastupdated": "2025-01-20 11:45:33.221000000",
+    "year": 2024,
+    "imdb": { "rating": 7.6, "votes": 185000, "id": 22022452 },
+    "countries": ["USA"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 4.4, "numReviews": 35000, "meter": 91 },
+      "dvd": { "$date": "2024-09-10T00:00:00.000Z" },
+      "critic": { "rating": 7.8, "numReviews": 310, "meter": 91 },
+      "lastUpdated": { "$date": "2025-01-10T12:00:00.000Z" },
+      "rotten": 28,
+      "production": "Pixar Animation Studios",
+      "fresh": 282
+    }
+  },
+  {
+    "plot": "Elphaba, a misunderstood young woman with green skin, and Glinda, a popular girl, become friends at Shiz University in the Land of Oz.",
+    "genres": ["Drama", "Fantasy", "Musical", "Romance"],
+    "runtime": 160,
+    "rated": "PG",
+    "cast": [
+      "Cynthia Erivo",
+      "Ariana Grande",
+      "Jonathan Bailey",
+      "Michelle Yeoh",
+      "Jeff Goldblum"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Wicked",
+    "fullplot": "Elphaba, a young woman ridiculed for her green skin, and Glinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths.",
+    "languages": ["English"],
+    "released": { "$date": "2024-11-27T00:00:00.000Z" },
+    "directors": ["Jon M. Chu"],
+    "writers": [
+      "Winnie Holzman (screenplay)",
+      "Stephen Schwartz (musical)",
+      "Gregory Maguire (novel)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 10,
+      "text": "3 wins including Best Production Design. 10 Oscar nominations."
+    },
+    "lastupdated": "2025-03-05 16:08:55.774000000",
+    "year": 2024,
+    "imdb": { "rating": 7.4, "votes": 142000, "id": 1262426 },
+    "countries": ["USA"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 4.2, "numReviews": 28000, "meter": 88 },
+      "dvd": { "$date": "2025-03-18T00:00:00.000Z" },
+      "critic": { "rating": 7.0, "numReviews": 350, "meter": 88 },
+      "lastUpdated": { "$date": "2025-03-01T09:30:00.000Z" },
+      "rotten": 42,
+      "production": "Universal Pictures",
+      "fresh": 308
+    }
+  },
+  {
+    "plot": "Years after the death of Emperor Marcus Aurelius, Lucius is forced to enter the Colosseum after his home is conquered by tyrannical emperors.",
+    "genres": ["Action", "Adventure", "Drama"],
+    "runtime": 148,
+    "rated": "R",
+    "cast": [
+      "Paul Mescal",
+      "Pedro Pascal",
+      "Connie Nielsen",
+      "Denzel Washington",
+      "Joseph Quinn"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Gladiator II",
+    "fullplot": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "languages": ["English"],
+    "released": { "$date": "2024-11-22T00:00:00.000Z" },
+    "directors": ["Ridley Scott"],
+    "writers": [
+      "David Scarpa (screenplay)",
+      "Peter Craig (story)",
+      "David Franzoni (characters)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination for Best Costume Design."
+    },
+    "lastupdated": "2025-02-28 10:12:07.339000000",
+    "year": 2024,
+    "imdb": { "rating": 6.5, "votes": 98000, "id": 9218128 },
+    "countries": ["USA", "UK"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 3.8, "numReviews": 15000, "meter": 70 },
+      "dvd": { "$date": "2025-03-04T00:00:00.000Z" },
+      "critic": { "rating": 6.2, "numReviews": 280, "meter": 70 },
+      "lastUpdated": { "$date": "2025-02-20T14:00:00.000Z" },
+      "rotten": 84,
+      "production": "Paramount Pictures",
+      "fresh": 196
+    }
+  },
+  {
+    "plot": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "runtime": 119,
+    "rated": "R",
+    "cast": [
+      "Cailee Spaeny",
+      "David Jonsson",
+      "Archie Renaux",
+      "Isabela Merced",
+      "Spike Fearn"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Alien: Romulus",
+    "fullplot": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe. Set between the events of Alien and Aliens, the film follows Rain and her companions as they fight to survive against the Xenomorph threat.",
+    "languages": ["English"],
+    "released": { "$date": "2024-08-16T00:00:00.000Z" },
+    "directors": ["Fede Álvarez"],
+    "writers": [
+      "Fede Álvarez (screenplay)",
+      "Rodo Sayagues (screenplay)",
+      "Dan O'Bannon (characters)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 0,
+      "text": "No major award nominations."
+    },
+    "lastupdated": "2025-01-08 08:33:19.662000000",
+    "year": 2024,
+    "imdb": { "rating": 7.2, "votes": 112000, "id": 18412256 },
+    "countries": ["USA", "UK"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 4.0, "numReviews": 12000, "meter": 80 },
+      "dvd": { "$date": "2024-12-03T00:00:00.000Z" },
+      "critic": { "rating": 7.4, "numReviews": 290, "meter": 80 },
+      "lastUpdated": { "$date": "2025-01-05T11:00:00.000Z" },
+      "rotten": 58,
+      "production": "20th Century Studios",
+      "fresh": 232
+    }
+  },
+  {
+    "plot": "A young Bob Dylan arrives in New York City in 1961 and transforms folk music forever.",
+    "genres": ["Biography", "Drama", "Music"],
+    "runtime": 141,
+    "rated": "R",
+    "cast": [
+      "Timothée Chalamet",
+      "Monica Barbaro",
+      "Edward Norton",
+      "Elle Fanning",
+      "Boyd Holbrook"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "A Complete Unknown",
+    "fullplot": "In 1961, a 19-year-old Bob Dylan arrives in New York City with his guitar and forges relationships with musical icons on his meteoric rise, culminating in a groundbreaking performance that reverberates around the world.",
+    "languages": ["English"],
+    "released": { "$date": "2024-12-25T00:00:00.000Z" },
+    "directors": ["James Mangold"],
+    "writers": [
+      "James Mangold (screenplay)",
+      "Jay Cocks (screenplay)",
+      "Elijah Wald (book)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 8,
+      "text": "Timothée Chalamet won Best Actor at the Golden Globes. 8 Oscar nominations."
+    },
+    "lastupdated": "2025-03-12 13:27:44.118000000",
+    "year": 2024,
+    "imdb": { "rating": 7.3, "votes": 67000, "id": 1151334 },
+    "countries": ["USA"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 4.1, "numReviews": 8000, "meter": 82 },
+      "dvd": { "$date": "2025-02-25T00:00:00.000Z" },
+      "critic": { "rating": 7.6, "numReviews": 260, "meter": 82 },
+      "lastUpdated": { "$date": "2025-03-10T10:00:00.000Z" },
+      "rotten": 47,
+      "production": "Searchlight Pictures",
+      "fresh": 213
+    }
+  },
+  {
+    "plot": "Twin brothers return to their hometown hoping for a fresh start, only to discover an even greater evil waiting for them.",
+    "genres": ["Drama", "Horror", "Thriller"],
+    "runtime": 137,
+    "rated": "R",
+    "cast": [
+      "Michael B. Jordan",
+      "Hailee Steinfeld",
+      "Jack O'Connell",
+      "Wunmi Mosaku",
+      "Omar Benson Miller"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Sinners",
+    "fullplot": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back. Set in 1932 Mississippi, the film blends Southern Gothic horror with a story of redemption and survival.",
+    "languages": ["English"],
+    "released": { "$date": "2025-04-18T00:00:00.000Z" },
+    "directors": ["Ryan Coogler"],
+    "writers": [
+      "Ryan Coogler (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 4,
+      "text": "1 win. 4 nominations including Best Picture."
+    },
+    "lastupdated": "2025-06-01 09:44:21.556000000",
+    "year": 2025,
+    "imdb": { "rating": 8.1, "votes": 89000, "id": 31193180 },
+    "countries": ["USA"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 4.6, "numReviews": 18000, "meter": 97 },
+      "dvd": { "$date": "2025-07-01T00:00:00.000Z" },
+      "critic": { "rating": 8.6, "numReviews": 340, "meter": 97 },
+      "lastUpdated": { "$date": "2025-06-15T12:00:00.000Z" },
+      "rotten": 10,
+      "production": "Warner Bros. Pictures",
+      "fresh": 330
+    }
+  },
+  {
+    "plot": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent.",
+    "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+    "runtime": 129,
+    "rated": "PG-13",
+    "cast": [
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "Nicholas Hoult",
+      "Edi Gathegi",
+      "Anthony Carrigan"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Superman",
+    "fullplot": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the American way, he soon finds himself in a world that views these ideals as old-fashioned.",
+    "languages": ["English"],
+    "released": { "$date": "2025-07-11T00:00:00.000Z" },
+    "directors": ["James Gunn"],
+    "writers": [
+      "James Gunn (screenplay)",
+      "Jerry Siegel (characters)",
+      "Joe Shuster (characters)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 0,
+      "text": "No major award nominations yet."
+    },
+    "lastupdated": "2025-07-05 18:20:11.902000000",
+    "year": 2025,
+    "imdb": { "rating": 7.5, "votes": 45000, "id": 5950044 },
+    "countries": ["USA"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 4.2, "numReviews": 22000, "meter": 85 },
+      "dvd": { "$date": "2025-10-14T00:00:00.000Z" },
+      "critic": { "rating": 7.3, "numReviews": 310, "meter": 85 },
+      "lastUpdated": { "$date": "2025-07-04T16:00:00.000Z" },
+      "rotten": 46,
+      "production": "DC Studios",
+      "fresh": 264
+    }
+  },
+  {
+    "plot": "Ethan Hunt and his team race against time to track down a terrifying new weapon that threatens all of humanity.",
+    "genres": ["Action", "Adventure", "Thriller"],
+    "runtime": 163,
+    "rated": "PG-13",
+    "cast": [
+      "Tom Cruise",
+      "Hayley Atwell",
+      "Ving Rhames",
+      "Simon Pegg",
+      "Esai Morales"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MzYxMzktN2Q1NC00YjE0LWE1NzAtYjE4NzE1NzE4NzE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Mission: Impossible - The Final Reckoning",
+    "fullplot": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: to track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the fate of the world at stake, a deadly race around the globe begins.",
+    "languages": ["English"],
+    "released": { "$date": "2025-05-23T00:00:00.000Z" },
+    "directors": ["Christopher McQuarrie"],
+    "writers": [
+      "Christopher McQuarrie (screenplay)",
+      "Bruce Geller (television series)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination for Best Visual Effects."
+    },
+    "lastupdated": "2025-06-20 07:55:38.447000000",
+    "year": 2025,
+    "imdb": { "rating": 7.4, "votes": 76000, "id": 9603212 },
+    "countries": ["USA"],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": { "rating": 4.3, "numReviews": 19000, "meter": 89 },
+      "dvd": { "$date": "2025-08-26T00:00:00.000Z" },
+      "critic": { "rating": 7.5, "numReviews": 320, "meter": 89 },
+      "lastUpdated": { "$date": "2025-06-18T14:00:00.000Z" },
+      "rotten": 35,
+      "production": "Paramount Pictures",
+      "fresh": 285
+    }
+  }
+]
