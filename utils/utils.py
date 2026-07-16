@@ -9,6 +9,7 @@ import os
 
 SLEEP_TIMER = 5
 PROXY_ENDPOINT = "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/"
+MAX_TOKENS = 4096
 
 
 def create_search_index(collection: Collection, index_name: str, model: Dict) -> None:
@@ -113,21 +114,24 @@ def set_env(providers: List[str], passkey: str) -> None:
 def get_llm(provider: str):
     if provider == "aws":
         return ChatBedrock(
-            model_id="global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+            model_id="global.anthropic.claude-sonnet-4-6",
             model_kwargs=dict(temperature=0),
             region_name="us-west-2",
+            max_tokens=MAX_TOKENS,
         )
     elif provider == "google":
         return ChatGoogleGenerativeAI(
             model="gemini-2.5-pro",
             temperature=0,
+            max_tokens=MAX_TOKENS,
         )
     elif provider == "microsoft":
         return AzureChatOpenAI(
             azure_endpoint="https://gai-326.openai.azure.com/",
-            azure_deployment="gpt-4.1",
+            azure_deployment="gpt-5.1",
             api_version="2024-12-01-preview",
             temperature=0,
+            max_tokens=MAX_TOKENS,
         )
     else:
         raise Exception("Unsupported provider. provider can be one of 'aws', 'google', 'microsoft'.")
