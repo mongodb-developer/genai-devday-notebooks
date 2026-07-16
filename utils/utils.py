@@ -112,6 +112,12 @@ def set_env(providers: List[str], passkey: str) -> None:
 
 
 def get_llm(provider: str):
+    """
+    Get the appropriate LLM instance based on the provider.
+
+    Args:
+        provider (str): Name of the provider. One of "aws", "google", "microsoft"
+    """
     if provider == "aws":
         return ChatBedrock(
             model_id="global.anthropic.claude-sonnet-4-6",
