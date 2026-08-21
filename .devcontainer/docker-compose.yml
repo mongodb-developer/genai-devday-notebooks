@@ -14,7 +14,7 @@ services:
     network_mode: service:mongodb
 
   mongodb:
-    image: mongodb/mongodb-atlas-local:8.2.0
+    image: mongodb/mongodb-atlas-local:latest
     restart: unless-stopped
     volumes:
       - mongodb_data:/data/db
