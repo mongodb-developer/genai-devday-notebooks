@@ -3,13 +3,14 @@ from langchain_aws import ChatBedrock
 from langchain_openai import AzureChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI
 import requests
-from typing import Dict, List
+from typing import Dict, List, Union
 import time
 import os
 
 SLEEP_TIMER = 5
 PROXY_ENDPOINT = "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/"
 MAX_TOKENS = 4096
+PROVIDERS = ["aws", "google", "microsoft", "voyageai"]
 
 
 def create_search_index(collection: Collection, index_name: str, model: Dict) -> None:
@@ -88,27 +89,33 @@ def create_index(collection: Collection, keys: List, index_name: str, **kwargs) 
     print(f"Successfully created {index_name} index")
 
 
-def set_env(providers: List[str], passkey: str) -> None:
+def set_env(passkey: str, providers: Union[str, List[str]] = PROVIDERS) -> None:
     """
     Set environment variables in sandbox
 
     Args:
-        providers (List[str]): List of provider names
         passkey (str): Passkey to get token
+        providers (Union[str, List[str]]): Providers to get credentials for.
     """
-    for provider in providers:
-        payload = {"provider": provider, "passkey": passkey}
-        response = requests.post(url=PROXY_ENDPOINT, json={"task": "get_token", "data": payload})
-        status_code = response.status_code
-        if status_code == 200:
-            result = response.json().get("token")
-            for key in result:
-                os.environ[key] = result[key]
-                print(f"Successfully set {key} environment variable.")
-        elif status_code == 401:
-            raise Exception(f"{response.json()['error']} Follow steps in the lab documentation to obtain your own credentials and set them as environment variables.")
-        else:
-            raise Exception(f"{response.json()['error']}")
+    # Allow a single provider to be passed as a string
+    if isinstance(providers, str):
+        providers = [providers]
+
+    response = requests.post(
+        url=PROXY_ENDPOINT,
+        json={
+            "task": "get_token",
+            "data": {"passkey": passkey, "providers": providers},
+        },
+    )
+    status_code = response.status_code
+    if status_code == 200:
+        result = response.json().get("token")
+        for key in result:
+            os.environ[key] = result[key]
+        print("Successfully set environment variables.")
+    else:
+        raise Exception(f"{response.json()['error']}")
 
 
 def get_llm(provider: str):
