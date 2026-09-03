@@ -8,7 +8,7 @@ import time
 import os
 
 SLEEP_TIMER = 5
-PROXY_ENDPOINT = "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/"
+PROXY_ENDPOINT = os.environ.get("PROXY_ENDPOINT", "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/")
 MAX_TOKENS = 4096
 PROVIDERS = ["aws", "google", "microsoft", "voyageai"]
 
