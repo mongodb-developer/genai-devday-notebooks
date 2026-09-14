@@ -12,7 +12,7 @@ apt-get install jupyter-notebook -y --no-install-recommends
 echo ✅ Install Jupyter Python kernel
 echo ✅ -----------------------------
 # Python Kernel
-apt-get install python3-pymongo -y --no-install-recommends
+apt-get install python3-pymongo python3-ipykernel -y --no-install-recommends
 apt-get clean packages
 
 echo ✅ Install cURL
@@ -20,10 +20,10 @@ echo ✅ ----------------
 apt-get install curl -y
 apt-get clean packages
 
-echo ✅ Install Node.js v23 
+echo ✅ Install Node.js
 echo ✅ ----------------
-# Install Node.js 23 as MongoDB MCP server needs at least v20 (https://github.com/mongodb-js/mongodb-mcp-server?tab=readme-ov-file#prerequisites)
+# Install Node.js 24 as MongoDB MCP server needs at least v20 (https://github.com/mongodb-js/mongodb-mcp-server?tab=readme-ov-file#prerequisites)
 apt-get install -y --no-install-recommends npm
 npm install -g n
-n 23
+n 24
 hash -r 
