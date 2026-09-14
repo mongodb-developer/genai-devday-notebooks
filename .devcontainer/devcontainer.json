@@ -1,7 +1,7 @@
 {
     "name": "GenAI Jupyter Notebooks with MongoDB",
     "dockerComposeFile": "docker-compose.yml",
-    "service": "lab-runner",
+    "service": "notebooks",
     "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
     "forwardPorts": [
         8888,
