@@ -4,16 +4,12 @@ echo ✅ APT GET UPDATE
 echo ✅ --------------
 apt-get update -y
 
-echo ✅ Install Jupyter notebook
-echo ✅ ------------------------
-apt-get install python3 python3-pip -y --no-install-recommends  
-apt-get install jupyter-notebook -y --no-install-recommends  
-
-echo ✅ Install Jupyter Python kernel
-echo ✅ -----------------------------
-# Python Kernel
-apt-get install python3-pymongo python3-ipykernel -y --no-install-recommends
-apt-get clean packages
+echo ✅ Install Jupyter notebook and Python kernel
+echo ✅ ------------------------------------------
+# Use the base image's Python (3.13) rather than pulling in apt's system
+# python3 (3.11), so there's only one Python and VS Code can't pick the
+# wrong interpreter for the notebook kernel.
+python3 -m pip install --user jupyter pymongo ipykernel
 
 echo ✅ Install cURL
 echo ✅ ----------------
