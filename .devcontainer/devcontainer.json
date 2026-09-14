@@ -15,7 +15,8 @@
         "MONGODB_URI": "mongodb://admin:mongodb@mongodb:27017/",
         "HF_HOME": "/tmp/huggingface"
     },
-    "postCreateCommand": "pip install -r requirements.txt",
+    "postCreateCommand": "pip install -r requirements.txt && bash .devcontainer/track.sh created || true",
+    "postStartCommand": "bash .devcontainer/track.sh started || true'",
     "customizations": {
         "codespaces": {
             "openFiles": []
