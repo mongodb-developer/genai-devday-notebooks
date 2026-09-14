@@ -1,11 +1,10 @@
+version: '3.8'
+
 services:
   lab-runner:
-    image: jupyter/base-notebook:latest
+    image: debian:bookworm-slim  
     volumes:
       - ../..:/workspaces:cached
-    depends_on:
-      - mongodb
-    user: "1000:100"
 
     # Overrides default command so things don't shut down after the process ends.
     command: sleep infinity
@@ -13,16 +12,26 @@ services:
     # Runs app on the same network as the database container, allows "forwardPorts" in devcontainer.json function.
     network_mode: service:mongodb
 
+    # Use "forwardPorts" in **devcontainer.json** to forward an app port locally. 
+    # (Adding the "ports" property to this file will not forward from a Codespace.)
+
   mongodb:
-    image: mongodb/mongodb-atlas-local:latest
+    image: mongodb/mongodb-atlas-local:8.0.18
     restart: unless-stopped
     volumes:
-      - mongodb_data:/data/db
+      - mongodb-data:/data/db
+
+    # Uncomment to change startup options
     environment:
       - MONGODB_INITDB_ROOT_USERNAME=admin
       - MONGODB_INITDB_ROOT_PASSWORD=mongodb
+      - MONGO_INITDB_DATABASE=library
     ports:
-      - "27017:27017"
+      - 27017:27017
+
+
+    # Add "forwardPorts": ["27017"] to **devcontainer.json** to forward MongoDB locally.
+    # (Adding the "ports" property to this file will not forward from a Codespace.)
 
 volumes:
-  mongodb_data:
+  mongodb-data:

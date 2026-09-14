@@ -7,16 +7,15 @@
         8888,
         27017
     ],
-    "hostRequirements": {
-        "cpus": 4
-    },
     "containerEnv": {
         "PROXY_ENDPOINT": "https://vtqjvgchmwcjwsrela2oyhlegu0hwqnw.lambda-url.us-west-2.on.aws/",
         "MONGODB_URI": "mongodb://admin:mongodb@mongodb:27017/",
         "HF_HOME": "/tmp/huggingface"
     },
-    "postCreateCommand": "pip install -r requirements.txt && bash .devcontainer/track.sh created || true",
-    "postStartCommand": "bash .devcontainer/track.sh started || true'",
+
+	"updateContentCommand": "bash .devcontainer/setup.sh && bash .devcontainer/install-mongodb-db-tools.sh",
+    "postCreateCommand": "bash .devcontainer/track.sh created || true",
+    "postStartCommand": "jupyter notebook python/*.ipynb --allow-root && bash .devcontainer/track.sh started || true'",
     "customizations": {
         "codespaces": {
             "openFiles": []
