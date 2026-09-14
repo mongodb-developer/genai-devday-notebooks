@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Best-effort telemetry: log a codespace lifecycle event. Never fails the caller.
+EVENT="${1:-unknown}"
+GIT_EMAIL="$(git config --get user.email 2>/dev/null || true)"
+URL="${CODESPACE_TELEMETRY_URL:-}"
+[ -z "$URL" ] && exit 0
+curl -fsS -m 5 -X POST "$URL" \
+  -H "Content-Type: application/json" \
+  -d "{\"event\":\"$EVENT\",\"codespace\":\"${CODESPACE_NAME:-}\",\"user\":\"${GITHUB_USER:-}\",\"gitEmail\":\"${GIT_EMAIL:-}\",\"repository\":\"${GITHUB_REPOSITORY:-mongodb-developer/genai-devday-notebooks}\"}" \
+  >/dev/null 2>&1 || true
