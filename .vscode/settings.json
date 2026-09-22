@@ -1,9 +1,13 @@
 {
   "mdb.presetConnections": [
-      {
-          "name": "Local MongoDB Atlas",
-          "connectionString": "mongodb://admin:mongodb@localhost:27017"
-      }
+    {
+      "name": "Local MongoDB Atlas",
+      "connectionString": "mongodb://admin:mongodb@localhost:27017"
+    }
   ],
-  "mdb.showOverviewPageAfterInstall": false
+  "mdb.showOverviewPageAfterInstall": false,
+  "jupyter.kernels.excludePythonEnvironments": [
+    "/bin/python3",
+    "/usr/bin/python3"
+  ]
 }
